@@ -15,7 +15,7 @@ T15	intervention-participants 1403 1406	211
 T16	cv-bin-percent 1468 1471	63%
 T17	cv-bin-abs 1508 1510	27
 T18	control-participants 1514 1516	43
-T19	outcome 1247 1281	median percent reduction in uNTx/C
+T19	outcome 1247 1282	median percent reduction in uNTx/Cr
 T20	iv-cont-median 1287 1290	71%
 T21	cv-cont-median 1327 1330	79%
 T23	outcome 1679 1693	adverse events
