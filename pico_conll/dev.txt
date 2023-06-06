@@ -313,7 +313,6 @@ of O
 breast O
 cancer O
 . O
-  O
 
 A O
 randomized O
@@ -3263,7 +3262,6 @@ Aventis O
 and O
 AstraZeneca O
 . O
-  O
 
 FemZone O
 trial O
@@ -4645,7 +4643,6 @@ fully O
 powered O
 studies O
 . O
-  O
 
 Multidisciplinary O
 Approach O
@@ -7677,7 +7674,6 @@ www.anzctr.org.au O
 ACTRN O
 12607000137493 O
 . O
-  O
 
 A O
 randomized O
@@ -15988,7 +15984,6 @@ NCT O
 02087592 O
 ) O
 . O
-  O
 
 Radiation O
 - O
@@ -17308,7 +17303,6 @@ trials O
 NCT O
 02103140 O
 . O
-  O
 
 No O
 differences O
@@ -17638,7 +17632,6 @@ this O
 patient O
 group O
 . O
-  O
 
 A O
 Nonrandomized O
@@ -18328,7 +18321,6 @@ with O
 ACTRN O
 12616001532493 O
 . O
-  O
 
 Randomized O
 phase O
@@ -18878,7 +18870,6 @@ objectively O
 and O
 subjectively O
 . O
-  O
 
 Predictive O
 factors O
@@ -19800,7 +19791,6 @@ treated O
 with O
 anthracyclines O
 . O
-  O
 
 The O
 clinical O
@@ -20499,7 +20489,6 @@ left O
 ventricular O
 function O
 . O
-  O
 
 Prevention O
 of O
@@ -21766,7 +21755,6 @@ Council O
 Australia O
 ) O
 . O
-  O
 
 A O
 Comparison O
@@ -22140,7 +22128,6 @@ of O
 only O
 fentanyl O
 . O
-  O
 
 A O
 randomized O
@@ -23196,7 +23183,6 @@ developing O
 febrile O
 neutropenia O
 . O
-  O
 
 Biophysical O
 skin O
@@ -24506,7 +24492,6 @@ cancer O
 related O
 lymphedema O
 . O
-  O
 
 Effects O
 of O
@@ -25845,7 +25830,6 @@ of O
 breast O
 cancer O
 . O
-  O
 
 A O
 randomised O
@@ -26555,7 +26539,6 @@ efficient O
 and O
 enjoyable O
 . O
-  O
 
 Effectiveness O
 of O
@@ -27266,7 +27249,6 @@ older O
 cancer O
 population O
 . O
-  O
 
 Satisfaction O
 with O
@@ -28051,7 +28033,6 @@ ng O
 mL O
 ) O
 . O
-  O
 
 Menopausal B-intervention
 hormone I-intervention
@@ -29798,7 +29779,6 @@ effective O
 is O
 necessary O
 . O
-  O
 
 A O
 randomized O
@@ -31397,7 +31377,6 @@ and O
 extended O
 family O
 . O
-  O
 
 Diagnostic O
 accuracy O
@@ -33581,7 +33560,6 @@ state O
 anxiety O
 score O
 . O
-  O
 
 Thoracic B-intervention
 paravertebral I-intervention
@@ -34643,7 +34621,6 @@ global O
 clinical O
 community O
 . O
-  O
 
 A O
 multicentre O

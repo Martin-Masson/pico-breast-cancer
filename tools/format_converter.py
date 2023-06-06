@@ -51,7 +51,7 @@ class FormatConvertor:
         with open(txt_file, 'r') as f:
             text = f.read()
 
-        return text
+        return text.strip()
     
     @staticmethod
     def get_annotations(ann_file: str) -> list[dict[str, str | int]]:

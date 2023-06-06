@@ -2605,7 +2605,6 @@ increasing O
 postoperative O
 complications O
 . O
-  O
 
 Primary O
 granulocyte B-intervention
@@ -4785,7 +4784,6 @@ with O
 their O
 partners O
 . O
-  O
 
 Thoracic B-intervention
 paravertebral I-intervention
@@ -5601,7 +5599,6 @@ Technology O
 Assessment O
 programme O
 . O
-  O
 
 [ O
 Effect O
@@ -6165,7 +6162,6 @@ to O
 traditional O
 methods O
 . O
-  O
 
 Tamoxifen B-control
 versus O
@@ -7372,7 +7368,6 @@ or O
 vice O
 versa O
 . O
-  O
 
 A O
 Randomized O
@@ -7776,7 +7771,6 @@ Res O
 2016 O
 AACR O
 . O
-  O
 
 Analysis O
 of O
@@ -9152,7 +9146,6 @@ the O
 conventional O
 technique O
 . O
-  O
 
 High O
 - O
@@ -12600,7 +12593,6 @@ of O
 the O
 patient O
 . O
-  O
 
 A O
 phase O
@@ -14621,7 +14613,6 @@ implications O
 for O
 outcome O
 . O
-  O
 
 Tamoxifen B-intervention
 , I-intervention
@@ -15388,7 +15379,6 @@ in O
 remote O
 areas O
 . O
-  O
 
 Angiotensin O
 II O
@@ -16858,7 +16848,6 @@ Cancer O
 Research O
 UK O
 . O
-  O
 
 COOLHAIR O
 : O
@@ -18810,7 +18799,6 @@ Medical O
 Research O
 Council O
 . O
-  O
 
 Pectoral B-intervention
 I I-intervention
@@ -22427,7 +22415,6 @@ to O
 be O
 similar O
 . O
-  O
 
 Randomized O
 phase O
@@ -23495,7 +23482,6 @@ after O
 they O
 develop O
 . O
-  O
 
 Effect O
 of O
@@ -24609,7 +24595,6 @@ of O
 BC O
 survivors O
 . O
-  O
 
 A O
 Dietary B-intervention
@@ -26730,7 +26715,6 @@ undergoing O
 breast O
 surgery O
 . O
-  O
 
 Daughters O
 and O
@@ -27142,7 +27126,6 @@ mother O
 daughter O
 dyad O
 . O
-  O
 
 Progressive B-intervention
 resistance I-intervention
@@ -27441,7 +27424,6 @@ risk O
 for O
 lymphedema O
 . O
-  O
 
 Lapatinib B-intervention
 plus I-intervention
@@ -28148,7 +28130,6 @@ conferences O
 NCT O
 02263651 O
 . O
-  O
 
 Effects O
 of O
@@ -32763,7 +32744,6 @@ year O
 after O
 surgery O
 . O
-  O
 
 Effect O
 of O
@@ -35336,7 +35316,6 @@ for O
 breast O
 cancer O
 . O
-  O
 
 Prevention O
 of O
@@ -35645,7 +35624,6 @@ of O
 breast O
 cancer O
 . O
-  O
 
 Prophylactic B-intervention
 irradiation I-intervention
@@ -37240,7 +37218,6 @@ follow O
 - O
 up O
 . O
-  O
 
 Elevated B-intervention
 plasma I-intervention
@@ -37840,7 +37817,6 @@ of O
 the O
 program O
 . O
-  O
 
 Physical O
 function O
@@ -40777,7 +40753,6 @@ between O
 treatment O
 arms O
 . O
-  O
 
 Oral B-intervention
 ibandronate I-intervention
@@ -43269,7 +43244,6 @@ these O
   O
 results O
 . O
-  O
 
 Effect O
 of O
@@ -44051,7 +44025,6 @@ patients O
 is O
 warranted O
 . O
-  O
 
 Role O
 of O
@@ -44829,7 +44802,6 @@ for O
 breast O
 cancer O
 . O
-  O
 
 SOLTI O
 NeoPARP O
@@ -45757,7 +45729,6 @@ tolerated O
 NCT O
 01516307 O
 . O
-  O
 
 Double O
 - O
@@ -46084,7 +46055,6 @@ with O
 better O
 tolerability O
 . O
-  O
 
 Long O
 - O
@@ -50920,7 +50890,6 @@ adjuvant O
 chemotherapy O
 treatment O
 . O
-  O
 
 A O
 single O
@@ -51227,7 +51196,6 @@ with O
 this O
 population O
 . O
-  O
 
 Accelerated B-intervention
 partial I-intervention
@@ -51705,7 +51673,6 @@ better O
 toxicity O
 profile O
 . O
-  O
 
 Effect O
 of O
@@ -54266,7 +54233,6 @@ under O
 general O
 anesthesia O
 . O
-  O
 
 Effect O
 of O
@@ -55898,7 +55864,6 @@ AstraZeneca O
 Sanofi O
 Aventis O
 . O
-  O
 
 Randomized O
 phase O
@@ -57732,7 +57697,6 @@ by O
 larger O
 series O
 . O
-  O
 
 Dramatic O
 dietary B-intervention
@@ -58066,7 +58030,6 @@ of O
 breast O
 cancer O
 . O
-  O
 
 Exercise B-intervention
 as O
@@ -58867,7 +58830,6 @@ to O
 improve O
 adherence O
 . O
-  O
 
 Efficacy O
 and O
@@ -60799,7 +60761,6 @@ patients O
 with O
 EBC O
 . O
-  O
 
 Omega- B-intervention
 3 I-intervention
@@ -62168,7 +62129,6 @@ positive O
 breast O
 cancer O
 . O
-  O
 
 Phase O
 II O
@@ -63314,7 +63274,6 @@ in O
 healthy O
 lifestyles O
 . O
-  O
 
 Dose O
 intensity O
@@ -72959,7 +72918,6 @@ trials O
 with O
 metformin O
 . O
-  O
 
 Quality O
 of O
@@ -73498,7 +73456,6 @@ NCT O
 https://clinicaltrials.gov/ct2/show/NCT O
 04174248 O
 . O
-  O
 
 [ O
 Randomized O
@@ -75724,7 +75681,6 @@ of O
 - O
 life O
 . O
-  O
 
 [ O
 Preventive O
@@ -77463,7 +77419,6 @@ breast O
 cancer O
 patients O
 . O
-  O
 
 Phase O
 III O
@@ -79892,7 +79847,6 @@ quality O
 in O
 BCS O
 . O
-  O
 
 Breast O
 cancer O
@@ -82103,7 +82057,6 @@ National O
 Healthcare O
 Group O
 . O
-  O
 
 Recruiting O
 and O
@@ -82851,7 +82804,6 @@ lymphorrhea O
 on O
 lanreotide O
 . O
-  O
 
 Randomised O
 , O
@@ -87471,7 +87423,6 @@ n- O
 FA O
 administration O
 . O
-  O
 
 Pathologic O
 and O
@@ -88238,7 +88189,6 @@ their O
 own O
 values O
 . O
-  O
 
 Physical B-intervention
 Activity I-intervention
@@ -88604,7 +88554,6 @@ with O
 their O
 disease O
 . O
-  O
 
 Randomized O
 Placebo O
@@ -89444,7 +89393,6 @@ proton O
 therapy O
 plans O
 . O
-  O
 
 Long O
 - O
@@ -89830,7 +89778,6 @@ loss O
 with O
 exercise O
 . O
-  O
 
 Consolidation O
 with O
@@ -91378,7 +91325,6 @@ of O
 these O
 markers O
 . O
-   O
 
 A O
 randomized O
@@ -95294,7 +95240,6 @@ group O
 NCT O
 00499603 O
 . O
-  O
 
 Pamidronate B-intervention
 in O
@@ -96259,7 +96204,6 @@ not O
 be O
 recommended O
 . O
-  O
 
 Randomized O
 trial O
@@ -96622,7 +96566,6 @@ points O
 are O
 needed O
 . O
-  O
 
 Clinical O
 study O
@@ -98500,7 +98443,6 @@ cost O
 - O
 effective O
 . O
-  O
 
 Trastuzumab B-intervention
 beyond O
@@ -103689,7 +103631,6 @@ of O
 our O
 study O
 . O
-  O
 
 A O
 randomized O
@@ -104009,7 +103950,6 @@ patients O
 PsycINFO O
 Database O
 Record O
-  O
 
 Effect O
 of O
@@ -104713,7 +104653,6 @@ in O
 this O
 population O
 . O
-  O
 
 Multicenter O
 randomized O
@@ -105625,7 +105564,6 @@ cardiac O
 perfusion O
 deficits O
 . O
-  O
 
 Effect O
 of O
@@ -110708,7 +110646,6 @@ breast O
 cancer O
 diagnosis O
 . O
-  O
 
 Local O
 anesthetic O
@@ -112439,7 +112376,6 @@ merits O
 wider O
 usage O
 . O
-  O
 
 A O
 clinical O
@@ -112747,7 +112683,6 @@ after O
 radical O
 mastectomy O
 . O
-  O
 
 Impact O
 of O
@@ -114215,7 +114150,6 @@ a O
 sequential O
 boost O
 . O
-  O
 
 Randomized O
 phase O
@@ -115128,7 +115062,6 @@ NCT O
 . O
 ) O
 . O
-  O
 
 Patient O
 - O
@@ -115816,7 +115749,6 @@ with O
 standard O
 fractionation O
 . O
-  O
 
 Visceral B-intervention
 osteopathic I-intervention
@@ -116148,7 +116080,6 @@ Identifier O
 NCT O
 02840890 O
 . O
-  O
 
 CEREBEL O
 ( O
@@ -116596,7 +116527,6 @@ the O
 metastatic O
 setting O
 . O
-  O
 
 [ O
 Preventing O
@@ -116802,7 +116732,6 @@ in O
 these O
 patients O
 . O
-  O
 
 A O
 prospective O
@@ -117836,7 +117765,6 @@ aerobic O
 exercise O
 alone O
 . O
-  O
 
 Nigella B-intervention
 sativa I-intervention
@@ -118206,7 +118134,6 @@ breast O
 cancer O
 patients O
 . O
-  O
 
 Fertility O
 preservation O
@@ -119049,7 +118976,6 @@ intervention O
 being O
 tested O
 . O
-  O
 
 Effects O
 of O
@@ -127633,7 +127559,6 @@ changes O
 in O
 HRQoL O
 . O
-  O
 
 Cosmesis O
 and O
@@ -127971,7 +127896,6 @@ inform O
 their O
 clinicians O
 . O
-  O
 
 A O
 randomized O
@@ -128539,7 +128463,6 @@ compromising O
 cardiac O
 function O
 . O
-  O
 
 Complete B-intervention
 hormonal I-intervention
@@ -131637,7 +131560,6 @@ Cancer O
 Society O
 ) O
 . O
-  O
 
 Comparison O
 of O
@@ -132775,7 +132697,6 @@ Aventis O
 and O
 AstraZeneca O
 . O
-  O
 
 Feasibility O
 of O
@@ -133543,7 +133464,6 @@ with O
 breast O
 cancer O
 . O
-  O
 
 Local O
 recurrence O
@@ -134529,7 +134449,6 @@ presentations O
 UMIN O
 000036400 O
 . O
-  O
 
 Do O
 Compression B-intervention
@@ -135269,7 +135188,6 @@ in O
 this O
 population O
 . O
-  O
 
 Superior O
 outcome O
@@ -135844,7 +135762,6 @@ in O
 our O
 cohort O
 . O
-  O
 
 Effect O
 of O
@@ -137320,7 +137237,6 @@ high O
 risk O
 patients O
 . O
-  O
 
 Manual B-intervention
 lymph I-intervention
@@ -137801,7 +137717,6 @@ Physiotherapy O
 254 O
 ] O
 . O
-  O
 
 1 B-intervention
 -hexylcarbamoyl- I-intervention
@@ -139223,7 +139138,6 @@ on O
 several O
 biomarkers O
 . O
-  O
 
 The O
 relevance O
@@ -139865,7 +139779,6 @@ Pre O
 - O
 results O
 . O
-  O
 
 Benefits O
 in O
@@ -140852,7 +140765,6 @@ Wiley O
 Sons O
 , O
 Ltd. O
-  O
 
 Trastuzumab B-intervention
 for O
@@ -146182,7 +146094,6 @@ Prev O
 2017 O
 AACR O
 . O
-  O
 
 Docetaxel B-intervention
 vs O
@@ -146895,7 +146806,6 @@ than O
 unsupervised O
 training O
 . O
-  O
 
 Safety O
 of O
@@ -148366,7 +148276,6 @@ breast O
 cancer O
 surgery O
 . O
-  O
 
 A O
 randomized O
@@ -149955,7 +149864,6 @@ complications O
 have O
 occurred O
 . O
-  O
 
 Effect O
 of O
@@ -151026,7 +150934,6 @@ NCT O
 https://clinicaltrials.gov/ct2/show/NCT O
 03148886 O
 . O
-  O
 
 Nevasic B-intervention
 audio I-intervention
@@ -151341,7 +151248,6 @@ nausea O
 and O
 vomiting O
 . O
-  O
 
 Use O
 of O
@@ -152071,7 +151977,6 @@ greater O
 baseline O
 fatigue O
 . O
-  O
 
 Weekly O
 paclitaxel B-intervention
@@ -154632,7 +154537,6 @@ group O
 of O
 patients O
 . O
-  O
 
 Eribulin B-intervention
 monotherapy I-intervention
@@ -156117,7 +156021,6 @@ of O
 future O
 research O
 . O
-  O
 
 Impact O
 of O
@@ -156915,7 +156818,6 @@ of O
 adverse O
 effects O
 . O
-  O
 
 Relationship O
 between O
@@ -157276,7 +157178,6 @@ Wiley O
 Sons O
 , O
 Ltd. O
-  O
 
 Effect O
 of O
@@ -158658,7 +158559,6 @@ on O
 cancer O
 survivorship O
 . O
-  O
 
 Do O
 coping O
@@ -159089,7 +158989,6 @@ Wiley O
 Sons O
 , O
 Ltd. O
-  O
 
 Efficacy O
 and O
@@ -160068,7 +159967,6 @@ of O
 breast O
 cancer O
 . O
-  O
 
 Trastuzumab B-intervention
 after O
@@ -161443,7 +161341,6 @@ AI O
 induced O
 CTS O
 . O
-  O
 
 Prevention O
 of O
@@ -161710,7 +161607,6 @@ the O
 NCS O
 findings O
 . O
-  O
 
 Impact O
 of O
@@ -162081,7 +161977,6 @@ identifier O
 NCT O
 01830933 O
 . O
-  O
 
 Five O
 years O
@@ -163420,7 +163315,6 @@ identifier O
 NCT O
 04255225 O
 . O
-  O
 
 Impact O
 of O
@@ -165211,7 +165105,6 @@ breast O
 cancer O
 survivors O
 . O
-  O
 
 Efficacy O
 of O
@@ -166707,7 +166600,6 @@ and O
 social O
 dimensions O
 . O
-  O
 
 A O
 randomized O
@@ -167091,7 +166983,6 @@ breast O
 cancer O
 prevention O
 . O
-  O
 
 Single O
 - O
@@ -169438,7 +169329,6 @@ treatment O
 NCT O
 01519700 O
 . O
-  O
 
 Randomized O
 Trial O
@@ -169844,7 +169734,6 @@ treatment O
 and O
 care O
 . O
-  O
 
 Randomized O
 Double O
@@ -170123,7 +170012,6 @@ patients O
 for O
 treatment O
 . O
-  O
 
 Hormone B-intervention
 therapy I-intervention
@@ -171085,7 +170973,6 @@ Number O
 NCT O
 03029286 O
 . O
-  O
 
 Double O
 - O
@@ -172507,7 +172394,6 @@ risk O
 of O
 depression O
 . O
-  O
 
 Telephone B-intervention
 counseling I-intervention
@@ -172893,7 +172779,6 @@ Registry O
 ACTRN O
 12611000645954 O
 . O
-  O
 
 Prevention O
 of O
@@ -173230,7 +173115,6 @@ metastatic O
 breast O
 cancer O
 . O
-  O
 
 A O
 randomized O
@@ -174910,7 +174794,6 @@ had O
 breast O
 cancer O
 . O
-  O
 
 Racial B-intervention
 differences I-intervention
@@ -175624,7 +175507,6 @@ with O
 breast O
 cancer O
 . O
-  O
 
 Efficacy O
 and O
@@ -177184,7 +177066,6 @@ the O
 general O
 population O
 . O
-  O
 
 Low B-intervention
 - I-intervention
@@ -179629,7 +179510,6 @@ in O
 future O
 work O
 . O
-  O
 
 Randomized O
 phase O
@@ -182497,7 +182377,6 @@ development O
 of O
 LE O
 . O
-  O
 
 A O
 comparative O
@@ -185805,7 +185684,6 @@ in O
 therapy O
 . O
 . O
-  O
 
 Quality O
 of O
@@ -186508,7 +186386,6 @@ opioid O
 analgesic O
 use O
 . O
-  O
 
 A O
 phase O
@@ -191678,7 +191555,6 @@ to O
 advanced O
 stage O
 . O
-  O
 
 Effect O
 of O
@@ -193009,7 +192885,6 @@ on O
 persistent O
 pain O
 . O
-  O
 
 Comparison O
 of O
@@ -193635,7 +193510,6 @@ other O
 than O
 estrogens O
 . O
-  O
 
 A O
 pilot O
@@ -194068,7 +193942,6 @@ or O
 anticipated O
 regret O
 . O
-  O
 
 Stress B-intervention
 management I-intervention
@@ -194414,7 +194287,6 @@ outcomes O
 NCT O
 01048528 O
 . O
-  O
 
 Tamoxifen B-intervention
 for O
@@ -195323,7 +195195,6 @@ Wiley O
 Periodicals O
 , O
 Inc. O
-  O
 
 Alberta O
 physical B-intervention
@@ -197397,7 +197268,6 @@ during O
 radiation O
 therapy O
 . O
-  O
 
 Effect O
 of O
@@ -198918,7 +198788,6 @@ Cancer O
 Research O
 Alliance O
 . O
-  O
 
 Dietary B-intervention
 flaxseed I-intervention
@@ -202636,7 +202505,6 @@ DCIS O
 is O
 warranted O
 . O
-  O
 
 Exploring O
 the O
@@ -202987,7 +202855,6 @@ supervised O
 ) O
 interventions O
 . O
-  O
 
 A O
 randomized O
@@ -206380,7 +206247,6 @@ post O
 - O
 treatment O
 . O
-  O
 
 EFFECT O
 : O
@@ -207911,7 +207777,6 @@ cancer O
 related O
 lymphedema O
 . O
-  O
 
 Influence O
 of O
@@ -208416,7 +208281,6 @@ with O
 breast O
 cancer O
 . O
-  O
 
 Trastuzumab B-intervention
 plus I-intervention
@@ -209345,7 +209209,6 @@ Policy O
 Research O
 Programme O
 . O
-  O
 
 A O
 randomized O
@@ -209702,7 +209565,6 @@ patients O
 are O
 warranted O
 . O
-  O
 
 Randomized O
 controlled O
@@ -210461,7 +210323,6 @@ cancer O
 risk O
 reduction O
 . O
-  O
 
 Intraoperative B-intervention
 radiotherapy I-intervention
@@ -211088,7 +210949,6 @@ Umberto O
 Veronesi O
 Foundation O
 . O
-  O
 
 Effect O
 of O
@@ -211455,7 +211315,6 @@ Prev O
 2016 O
 AACR O
 . O
-  O
 
 Randomized O
 study O
@@ -215583,7 +215442,6 @@ elective O
 breast O
 surgery O
 . O
-  O
 
 Effectiveness O
 of O
@@ -218172,7 +218030,6 @@ in O
 premenopausal O
 women O
 . O
-  O
 
 Breast O
 density O
@@ -219303,7 +219160,6 @@ dose O
 of O
 pegfilgrastim O
 . O
-  O
 
 Safety O
 results O
@@ -219911,7 +219767,6 @@ needs O
 further O
 investigation O
 . O
-  O
 
 A O
 randomized O
@@ -220615,7 +220470,6 @@ higher O
 intensity O
 program O
 . O
-  O
 
 Adjuvant O
 denosumab B-intervention
@@ -221365,7 +221219,6 @@ practice O
 . O
 Amgen O
 . O
-  O
 
 Bisphosphonate B-intervention
 treatment O
@@ -221925,7 +221778,6 @@ in O
 estrogen O
 metabolism O
 . O
-  O
 
 Phase O
 II O
@@ -224078,7 +223930,6 @@ cancer O
 preventive O
 strategies O
 . O
-  O
 
 Tamoxifen B-intervention
 for O
@@ -224948,7 +224799,6 @@ years O
 of O
 tamoxifen O
 . O
-  O
 
 The O
 effectiveness O
@@ -226929,7 +226779,6 @@ processed O
 cured O
 meat O
 . O
-  O
 
 The O
 effects O
@@ -228047,7 +227896,6 @@ cancer O
 risk O
 context O
 . O
-  O
 
 Perceived O
 stress O
@@ -228359,7 +228207,6 @@ levels O
 of O
 distress O
 . O
-  O
 
 Tamoxifen B-intervention
 for O
@@ -230011,7 +229858,6 @@ warrant O
 further O
 study O
 . O
-  O
 
 Behavioral O
 and O
@@ -231247,7 +231093,6 @@ IRCT O
 N O
 1 O
 . O
-  O
 
 Long O
 - O
@@ -231668,7 +231513,6 @@ Prev O
 2016 O
 AACR O
 . O
-  O
 
 A O
 Randomized O
@@ -232109,7 +231953,6 @@ a O
 control O
 cream O
 . O
-  O
 
 The O
 effect O
@@ -232547,7 +232390,6 @@ after O
 completing O
 treatment O
 . O
-  O
 
 A O
 Randomized O
@@ -232922,7 +232764,6 @@ Kimler O
 p. O
 187 O
 . O
-  O
 
 Emulsion O
 of O
@@ -233183,7 +233024,6 @@ confirm O
 this O
 result O
 . O
-  O
 
 A O
 Prospective O
@@ -234306,7 +234146,6 @@ American O
 Cancer O
 Society O
 . O
-  O
 
 Design O
 of O
@@ -234661,7 +234500,6 @@ evidence O
 based O
 management O
 . O
-  O
 
 Cimicifuga B-intervention
 racemosa I-intervention
@@ -239756,7 +239594,6 @@ CLINICALTRIALS O
 NCT O
 02437318 O
 . O
-  O
 
 Effects O
 of O
@@ -242177,7 +242014,6 @@ lymph O
 node O
 visualization O
 . O
-  O
 
 [ O
 Effects O
@@ -243625,7 +243461,6 @@ Suez O
 Canal O
 University O
 . O
-  O
 
 No O
 effect O
@@ -243807,7 +243642,6 @@ in O
 melatonin O
 secretion O
 . O
-  O
 
 An O
 association O
@@ -245170,7 +245004,6 @@ explore O
 this O
 topic O
 . O
-  O
 
 Long O
 - O
@@ -250274,7 +250107,6 @@ Aventis O
 and O
 AstraZeneca O
 . O
-  O
 
 Improving O
 anxiety O
@@ -250648,7 +250480,6 @@ with O
 breast O
 cancer O
 . O
-  O
 
 Long O
 - O
@@ -251637,7 +251468,6 @@ Institute O
 ; O
 Wyeth O
 . O
-  O
 
 [ O
 Parecoxib B-intervention
@@ -254140,7 +253970,6 @@ for O
 this O
 population O
 . O
-  O
 
 Overall O
 Survival O
@@ -254906,7 +254735,6 @@ the O
 primary O
 comparison O
 . O
-  O
 
 Cognition O
 in O
@@ -256939,7 +256767,6 @@ of O
 persistent O
 pain O
 . O
-  O
 
 Administration O
 of O
@@ -257585,7 +257412,6 @@ undergo O
 axillary O
 lymphadenectomy O
 . O
-  O
 
 Does O
 the O
@@ -260874,7 +260700,6 @@ of O
 preventive O
 therapy O
 . O
-  O
 
 Randomized O
 Multicenter O
@@ -261250,7 +261075,6 @@ between O
 the O
 groups O
 . O
-  O
 
 Neuropsychological B-condition
 functioning I-condition
@@ -267495,7 +267319,6 @@ detect O
 risk O
 reduction O
 . O
-   O
 
 Effects O
 of O
@@ -267891,7 +267714,6 @@ and O
 lipid O
 metabolism O
 . O
-  O
 
 Exercise B-intervention
 type I-intervention
@@ -269346,7 +269168,6 @@ breast O
 cancer O
 treatment O
 . O
-  O
 
 The O
 relationship O
@@ -271828,7 +271649,6 @@ for O
 years O
 ) O
 . O
-  O
 
 Can O
 polyacrylic B-intervention
@@ -273598,7 +273418,6 @@ breast O
 cancer O
 survivors O
 . O
-   O
 
 Gonadatrophin B-intervention
 suppression I-intervention
@@ -274360,7 +274179,6 @@ NCT O
 01009918 O
 ) O
 . O
-  O
 
 Efficacy O
 and O
@@ -275084,7 +274902,6 @@ make O
 mammography O
 decisions O
 . O
-  O
 
 Effects O
 of O
@@ -277247,7 +277064,6 @@ randomized O
 controlled O
 trial O
 . O
-  O
 
 Letrozole B-intervention
 in O
@@ -279263,7 +279079,6 @@ postmastectomy O
 pain O
 syndrome O
 . O
-  O
 
 Prospective O
 comparison O
@@ -283076,7 +282891,6 @@ Pre O
 - O
 results O
 . O
-  O
 
 Phase O
 II O
@@ -285268,7 +285082,6 @@ and O
 NCT O
 01516736 O
 . O
-  O
 
 Clinical O
 effects O
@@ -285980,7 +285793,6 @@ breast O
 cancer O
 prevention O
 . O
-  O
 
 Carvedilol B-intervention
 for O
@@ -286364,7 +286176,6 @@ NCT O
 01724450 O
 ) O
 . O
-  O
 
 Twenty O
 - O
@@ -287716,7 +287527,6 @@ for O
 breast O
 cancer O
 . O
-  O
 
 Evaluation O
 of O
@@ -288364,7 +288174,6 @@ cancer O
 is O
 warranted O
 . O
-  O
 
 Late O
 tamoxifen B-intervention
@@ -291486,7 +291295,6 @@ as O
 strict O
 hygiene O
 . O
-  O
 
 " B-intervention
 Tumour I-intervention
@@ -292137,7 +291945,6 @@ not O
 be O
 anticipated O
 . O
-  O
 
 The O
 cyclin B-intervention
@@ -295604,7 +295411,6 @@ Education O
 and O
 Research O
 . O
-  O
 
 Effect O
 of O
@@ -296665,7 +296471,6 @@ increase O
 the O
 efficacy O
 . O
-  O
 
 Mobile B-intervention
 health I-intervention

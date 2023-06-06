@@ -316,7 +316,6 @@ for O
 seroma O
 prevention O
 . O
-  O
 
 Prophylactic O
 use O
@@ -1834,7 +1833,6 @@ https://clinicaltrials.gov/ct2/show/NCT O
 02620735 O
 ) O
 . O
-  O
 
 Long O
 - O
@@ -2674,7 +2672,6 @@ additional O
 video O
 content O
 . O
-  O
 
 Yoga B-intervention
 and O
@@ -2993,7 +2990,6 @@ related O
 cognitive O
 problems O
 . O
-  O
 
 Risk B-intervention
 Model I-intervention
@@ -4260,7 +4256,6 @@ if O
 deemed O
 appropriate O
 . O
-  O
 
 Incidence O
 of O
@@ -7022,7 +7017,6 @@ among O
 black O
 women O
 . O
-  O
 
 A O
 Randomized O
@@ -7368,7 +7362,6 @@ Res O
 2017 O
 AACR O
 . O
-  O
 
 Effectiveness O
 of O
@@ -10428,7 +10421,6 @@ Welfare O
 of O
 Japan O
 . O
-  O
 
 [ O
 Treatment O
@@ -11088,7 +11080,6 @@ mechanism O
 of O
 action O
 . O
-  O
 
 Randomized O
 placebo O
@@ -16227,7 +16218,6 @@ of O
 Health O
 Research O
 . O
-  O
 
 Effectiveness O
 of O
@@ -17715,7 +17705,6 @@ risk O
 merits O
 examination O
 . O
-  O
 
 Letrozole B-intervention
 and I-intervention
@@ -18628,7 +18617,6 @@ a O
 prognostic O
 importance O
 . O
-  O
 
 Breast O
 cancer O
@@ -19762,7 +19750,6 @@ publications O
 NCT O
 03063931 O
 . O
-  O
 
 No O
 effect O
@@ -20004,7 +19991,6 @@ proteins O
 in O
 humans O
 . O
-  O
 
 Histopathological O
 assessment O
@@ -24699,7 +24685,6 @@ related O
 to O
 fatigue O
 . O
-  O
 
 Dose O
 - O
@@ -25248,7 +25233,6 @@ levels O
 of O
 inflammation O
 . O
-  O
 
 Ultrasound B-intervention
 - I-intervention
@@ -25958,7 +25942,6 @@ this O
 patient O
 population O
 . O
-  O
 
 Randomized O
 trial O
@@ -26956,7 +26939,6 @@ for O
 this O
 procedure O
 . O
-  O
 
 Mammographic O
 density O
@@ -29904,7 +29886,6 @@ confirm O
 these O
 results O
 . O
-  O
 
 Randomized O
 trial O
@@ -32900,7 +32881,6 @@ weeks O
 of O
 application O
 . O
-  O
 
 Longitudinal O
 social O
@@ -33266,7 +33246,6 @@ Wiley O
 Sons O
 , O
 Ltd. O
-  O
 
 Maintaining O
 normal O
@@ -36247,7 +36226,6 @@ some O
 prescribing O
 barriers O
 . O
-  O
 
 Chemotherapy B-intervention
 ( I-intervention
@@ -37714,7 +37692,6 @@ congresses O
 NCT O
 03351075 O
 . O
-  O
 
 Prospective O
 randomized O
