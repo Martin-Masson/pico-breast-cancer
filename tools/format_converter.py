@@ -4,80 +4,23 @@ from spacy.lang.en import English
 from spacy.tokenizer import Tokenizer
 from spacy import util
 import os
+import random
 import argparse
 
 
 class FormatConvertor:
-    def __init__(self, input_dir: str, output_file: str) -> None:
-        """Initializes the instance based on the input directory and output file names.
+    def __init__(self, input_dir: str, output_dir: str) -> None:
+        """Initializes the instance based on the input and output directory names.
 
         Args:
-          input_dir: The relative path of the directory where the BRAT
-            annotated files are located.
-          output_file: The relative path of the output CoNLL file.
+          input_dir: A string of the relative path of the directory where the
+            BRAT annotated files are located.
+          output_dir: A string of the relative path of the directory where the
+            CoNLL split files will be created.
         """
         self.input_dir = input_dir
-        self.output_file = output_file
-
-    def get_file_pairs(self) -> list[tuple[str, str]]:
-        """Pairs the ann and txt files of the input folder.
-
-        Returns:
-            A list of tuples (*.ann, *.txt), where *.ann is the relative
-              path of the BRAT annotated file and *.txt is the relative
-              path of its corresponding text file.
-        """
-        file_pairs = []
-        files = os.listdir(self.input_dir)
-        annotation_files = sorted([file for file in files if file.endswith(".ann")])
-        # The folder is assumed to contain *.ann and *.txt where both files
-        # of a pair have the same name
-        for ann_file in annotation_files:
-            txt_file = ann_file.replace(".ann", ".txt")
-            if txt_file in files:
-                file_pairs.append(
-                    (os.path.join(self.input_dir, ann_file),
-                     os.path.join(self.input_dir, txt_file))
-                )
-            else:
-                raise f"{ann_file} does not have a corresponding text file."
-
-        return file_pairs
-
-    @staticmethod
-    def get_annotations(ann_file: str) -> list[dict[str, str | int]]:
-        """Reads the useful annotations of the input BRAT file.
-
-        Args:
-            ann_file: The relative path of the BRAT annotated file.
-
-        Returns:
-            A list of dicts each mapping a line's tag, start and end to
-            their corresponding value.
-        """
-        annotations = []
-        # Read each line of the annotation file to a dictionary
-        with open(ann_file, 'r') as f:
-            for line in f:
-                if line != "\n":
-                    line_annotations = {}
-                    splits = line.split()
-                    line_annotations["ner_tag"] = splits[1].lower()
-                    line_annotations["start"] = int(splits[2])
-                    line_annotations["end"] = int(splits[3])
-                    annotations.append(line_annotations)
-        # Sorts the annotations by start position to be able to loop through
-        # the text while iterating over the list
-        annotations.sort(key=lambda x: x["start"])
-        return annotations
-
-    @staticmethod
-    def get_text(txt_file: str) -> str:
-        """Returns the content of the input text file as a string."""
-        with open(txt_file, 'r') as f:
-            text = f.read()
-
-        return text
+        self.output_dir = output_dir
+        self.tokenizer = FormatConvertor.make_tokenizer()
 
     @staticmethod
     def make_tokenizer() -> Tokenizer:
@@ -101,15 +44,84 @@ class FormatConvertor:
         tokenizer.rules = {k: v for k, v in rules if k not in ['):', '8)']}
 
         return tokenizer
+    
+    @staticmethod
+    def get_text(txt_file: str) -> str:
+        """Returns the content of the input text file as a string."""
+        with open(txt_file, 'r') as f:
+            text = f.read()
 
-    def convert(self) -> None:
-        """Loops over all the file pairs and write each token and its label to the output file."""
-        tokenizer = self.make_tokenizer()
+        return text
+    
+    @staticmethod
+    def get_annotations(ann_file: str) -> list[dict[str, str | int]]:
+        """Returns the useful annotations of the input BRAT file.
 
-        with open(self.output_file, 'w') as f:
-            for ann_file, txt_file in self.get_file_pairs():
+        Args:
+            ann_file: A string of the relative path of the BRAT annotation file.
+
+        Returns:
+            A list of dicts each mapping a line's tag, start and end to
+            their corresponding value.
+        """
+        annotations = []
+        # Read each line of the annotation file to a dictionary
+        with open(ann_file, 'r') as f:
+            for line in f:
+                if line != "\n":
+                    line_annotations = {}
+                    splits = line.split()
+                    line_annotations["ner_tag"] = splits[1].lower()
+                    line_annotations["start"] = int(splits[2])
+                    line_annotations["end"] = int(splits[3])
+                    annotations.append(line_annotations)
+        # Sorts the annotations by start position to be able to loop through
+        # the text while iterating over the list
+        annotations.sort(key=lambda x: x["start"])
+        return annotations
+
+    def get_file_pairs(self) -> list[tuple[str, str]]:
+        """Pairs the ann and txt files of the input folder.
+
+        Loops over all the .ann files of the input directory checking if a .txt
+        file with the same name exists before adding them to a list.
+
+        Returns:
+            A list of tuples (*.ann, *.txt), where *.ann is a string of the relative
+              path of the BRAT annotated file and *.txt is a string of the relative
+              path of its corresponding text file.
+        """
+        file_pairs = []
+        files = os.listdir(self.input_dir)
+        annotation_files = sorted([file for file in files if file.endswith(".ann")])
+        # The folder is assumed to contain *.ann and *.txt where both files
+        # of a pair have the same name
+        for ann_file in annotation_files:
+            txt_file = ann_file.replace(".ann", ".txt")
+            if txt_file in files:
+                file_pairs.append(
+                    (os.path.join(self.input_dir, ann_file),
+                     os.path.join(self.input_dir, txt_file))
+                )
+            else:
+                raise f"{ann_file} does not have a corresponding text file."
+
+        return file_pairs
+
+    def convert_split(self, split: list[tuple[str, str]], split_file: str) -> None:
+        """Convert all files of a split.
+        
+        Loops over all the file pairs of a split and write each token and its
+        label to the split's corresponding output file.
+
+        Args:
+          split: A slice of the list returned by get_file_pairs().
+          split_file: A string of the relative path of the split's output file.
+        """
+        with open(split_file, 'w') as f:
+            for ann_file, txt_file in split:
                 annotations = self.get_annotations(ann_file)
-                tokens = tokenizer(self.get_text(txt_file))
+                tokens = self.tokenizer(self.get_text(txt_file))
                 len_annotations = len(annotations)
 
                 annotation_idx = 0  # The index of annotation within annotations
@@ -133,6 +145,29 @@ class FormatConvertor:
                                 tag_span = tokens.char_span(tag_start, tag_end)
 
                 f.write("\n")
+        
+    def convert(self) -> None:
+        """Convert all the files into splits.
+        
+        Converts and splits the annotations into train, validation and test
+        files containing 80%/10%/10% of the total annotations.
+        """
+        file_pairs = self.get_file_pairs()
+        random.Random(42).shuffle(file_pairs)
+        split_size = len(file_pairs)//10
+        
+        test_split = file_pairs[0:split_size]
+        dev_split = file_pairs[split_size:2*split_size]
+        train_split = file_pairs[2*split_size:]
+        splits = [test_split, dev_split, train_split]
+
+        test_file = os.path.join(self.output_dir, "test.txt")
+        dev_file = os.path.join(self.output_dir, "dev.txt")
+        train_file = os.path.join(self.output_dir, "train.txt")
+        split_files = [test_file, dev_file, train_file]
+
+        for split, split_file in zip(splits, split_files):
+            self.convert_split(split, split_file)
 
 
 if __name__ == '__main__':
@@ -149,13 +184,13 @@ if __name__ == '__main__':
 
     parser.add_argument(
         "-o",
-        "--output_file",
-        default="pico_conll.txt",
+        "--output_dir",
+        default="pico_conll",
         type=str,
-        help="Output file where CoNLL annotations are saved.",
-        dest="output_file",
+        help="Output directory where CoNLL annotations splits are saved.",
+        dest="output_dir",
     )
 
     args = parser.parse_args()
-    format_convertor = FormatConvertor(args.input_dir, args.output_file)
+    format_convertor = FormatConvertor(args.input_dir, args.output_dir)
     format_convertor.convert()
