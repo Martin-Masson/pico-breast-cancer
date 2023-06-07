@@ -130,7 +130,8 @@ class FormatConvertor:
                 tag_span = tokens.char_span(tag_start, tag_end)
                 for token in tokens:
                     if token not in tag_span:
-                        f.write(f"{token} O\n")
+                        if not token.text.isspace():
+                            f.write(f"{token} O\n")
                     else:
                         ner_tag = annotations[annotation_idx]["ner_tag"]
                         # Whether the token is at the beginning or in the middle of the tagged text
