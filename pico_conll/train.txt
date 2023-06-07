@@ -408,9 +408,7 @@ Mage B-age
 ( I-age
 SD I-age
 ) I-age
-  I-age
 = I-age
-  I-age
 49.11 I-age
 ( I-age
 8.05 I-age
@@ -4480,7 +4478,6 @@ group I-control
 ( O
 n O
 = O
-  B-control-participants
 40 I-control-participants
 ) O
 . O
@@ -5294,7 +5291,6 @@ ISRCTN O
 24647151 O
 . O
 160 B-total-participants
-  I-total-participants
 921 I-total-participants
 women O
 were O
@@ -5312,7 +5308,6 @@ Sept O
 1997 O
 . O
 53 B-intervention-participants
-  I-intervention-participants
 883 I-intervention-participants
 women O
 ( O
@@ -5330,7 +5325,6 @@ intervention O
 group O
 and O
 106 B-control-participants
-  I-control-participants
 953 I-control-participants
 ( O
 66 O
@@ -6940,13 +6934,9 @@ chemotherapy I-eligibility
 TAC I-eligibility
 ; I-eligibility
 docetaxel I-eligibility
-  I-eligibility
 + I-eligibility
-  I-eligibility
 doxorubicin I-eligibility
-  I-eligibility
 + I-eligibility
-  I-eligibility
 cyclophosphamide I-eligibility
 ) I-eligibility
 compares O
@@ -8550,7 +8540,6 @@ women O
 median O
 age O
 61 B-age
-  I-age
 years I-age
 , O
 range O
@@ -8690,7 +8679,6 @@ versus O
 109 B-cv-cont-mean
 ± O
 25 B-cv-cont-sd
-  I-cv-cont-sd
 min I-cv-cont-sd
 , O
 56 B-iv-cont-mean
@@ -8700,7 +8688,6 @@ versus O
 86 B-cv-cont-mean
 ± O
 15 B-cv-cont-sd
-  I-cv-cont-sd
 mL I-cv-cont-sd
 , O
 and O
@@ -8711,7 +8698,6 @@ versus O
 456 B-cv-cont-mean
 ± O
 69 B-cv-cont-sd
-  I-cv-cont-sd
 mL I-cv-cont-sd
 , O
 respectively O
@@ -8737,14 +8723,12 @@ seroma I-outcome
 9 B-iv-bin-abs
 ( O
 13.2 B-iv-bin-abs
-  I-iv-bin-abs
 % I-iv-bin-abs
 ) O
 and O
 20 B-cv-bin-abs
 ( O
 28.2 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ) O
 for O
@@ -10450,7 +10434,6 @@ median O
 12.3 B-iv-cont-median
 vs. O
 9.5 B-cv-cont-mean
-  I-cv-cont-mean
 months I-cv-cont-mean
 ; O
 HR O
@@ -10469,7 +10452,6 @@ median O
 4.6 B-iv-cont-median
 vs. O
 3.1 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ; O
 HR O
@@ -10513,7 +10495,6 @@ of O
 16.7 B-iv-cont-median
 versus O
 16.2 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ( O
 HR O
@@ -10531,7 +10512,6 @@ of O
 6.0 B-iv-cont-median
 versus O
 4.4 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ( O
 HR O
@@ -23985,7 +23965,6 @@ vs. O
 UC O
 - B-cv-cont-mean
 9 I-cv-cont-mean
-  I-cv-cont-mean
 ± O
 24 B-cv-cont-sd
 ; O
@@ -24015,7 +23994,6 @@ vs. O
 UC O
 + B-cv-cont-mean
 0.1 I-cv-cont-mean
-  I-cv-cont-mean
 ± O
 2.0 B-cv-cont-sd
 ; O
@@ -24237,7 +24215,6 @@ was O
 average B-outcome-measure
 daily I-outcome-measure
 HF I-outcome-measure
-  I-outcome-measure
 activity I-outcome-measure
 ( O
 number O
@@ -25295,9 +25272,7 @@ participants O
 Women O
 were O
 58 B-age
-  I-age
 ± I-age
-  I-age
 8 I-age
 years I-age
 , O
@@ -28155,14 +28130,12 @@ mean O
 age O
 : O
 45 B-age
-  I-age
 years I-age
 ; I-age
 range I-age
 24 I-age
 - I-age
 51 I-age
-  I-age
 years I-age
 ) O
 were O
@@ -30423,7 +30396,6 @@ mean O
 age O
 of O
 58 B-age
-  I-age
 years I-age
 , O
 BMI O
@@ -33190,9 +33162,7 @@ Mean O
 age O
 was O
 58 B-age
-  I-age
 ± I-age
-  I-age
 5.6 I-age
 years I-age
 , O
@@ -38006,7 +37976,6 @@ end O
 points O
 in O
 67 B-total-participants
-  I-total-participants
 142 I-total-participants
 postmenopausal B-eligibility
 women I-eligibility
@@ -44735,7 +44704,6 @@ arms O
 , O
 and O
 19 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 for O
 PTX O
@@ -44766,7 +44734,6 @@ axilla I-outcome
 , O
 and O
 19 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 ; O
@@ -44783,7 +44750,6 @@ breast O
 , O
 and O
 63 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 ; O
@@ -44798,7 +44764,6 @@ rate I-outcome
 , O
 and O
 50 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 . O
@@ -44822,7 +44787,6 @@ neutropenia I-outcome
 , O
 and O
 10 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 . O
@@ -44837,7 +44801,6 @@ Grade B-outcome
 , O
 and O
 29 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 , O
@@ -47339,7 +47302,6 @@ P O
 , O
 and O
 14.0 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 respectively O
@@ -47376,7 +47338,6 @@ diarrhea I-outcome
 , O
 and O
 12 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 for O
 AZD O
@@ -47400,7 +47361,6 @@ rash B-outcome
 , O
 and O
 12 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ) O
 , O
@@ -47413,7 +47373,6 @@ skin I-outcome
 , O
 and O
 2 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ) O
 , O
@@ -47427,7 +47386,6 @@ dermatitis I-outcome
 , O
 and O
 2 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ) O
 in O
@@ -52923,9 +52881,7 @@ NCT O
 , O
 women O
 ≥ B-age
-  I-age
 18 I-age
-  I-age
 years I-age
 of O
 age O
@@ -52944,15 +52900,12 @@ ECOG I-eligibility
 performance I-eligibility
 status I-eligibility
 ≤ I-eligibility
-  I-eligibility
 2 I-eligibility
 who I-eligibility
 were I-eligibility
 planning I-eligibility
 ≥ I-eligibility
-  I-eligibility
 4 I-eligibility
-  I-eligibility
 cycles I-eligibility
 of I-eligibility
 adjuvant I-eligibility
@@ -55638,9 +55591,7 @@ RPBC I-eligibility
 Thymidine I-eligibility
 Labeling I-eligibility
 Index I-eligibility
-  I-eligibility
 > I-eligibility
-  I-eligibility
 3 I-eligibility
 % I-eligibility
 or I-eligibility
@@ -55651,17 +55602,13 @@ or I-eligibility
 S I-eligibility
 - I-eligibility
 phase I-eligibility
-  I-eligibility
 > I-eligibility
-  I-eligibility
 10 I-eligibility
 % I-eligibility
 or I-eligibility
 Ki I-eligibility
 67 I-eligibility
-  I-eligibility
 > I-eligibility
-  I-eligibility
 20 I-eligibility
 % I-eligibility
 ) I-eligibility
@@ -57914,7 +57861,6 @@ BCa I-eligibility
 40 I-eligibility
 - I-eligibility
 75 I-eligibility
-  I-eligibility
 years I-eligibility
 ) I-eligibility
 scheduled I-eligibility
@@ -57933,7 +57879,6 @@ training O
 ( O
 n O
 = O
-  B-intervention-participants
 50 I-intervention-participants
 ) O
 or O
@@ -58715,7 +58660,6 @@ PALOMA- O
 25.4 B-iv-cont-median
 vs O
 13.7 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 hazard O
@@ -58743,7 +58687,6 @@ PALOMA- O
 9.9 B-iv-cont-median
 vs O
 3.5 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 hazard O
@@ -58811,7 +58754,6 @@ PALOMA- O
 32.0 B-iv-cont-median
 vs O
 24.7 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 hazard O
@@ -62919,7 +62861,6 @@ high B-intervention
 dose I-intervention
 epirubicin I-intervention
 150 I-intervention
-  I-intervention
 mg I-intervention
 / I-intervention
 m I-intervention
@@ -62927,7 +62868,6 @@ m I-intervention
 and I-intervention
 cyclophosphamide I-intervention
 1500 I-intervention
-  I-intervention
 mg I-intervention
 / I-intervention
 m I-intervention
@@ -66937,7 +66877,6 @@ of I-outcome
 CTCAE I-outcome
 grade I-outcome
 ≥ I-outcome
-  I-outcome
 2 I-outcome
 sensory I-outcome
 ( O
@@ -67374,10 +67313,8 @@ safety O
 of O
 neoadjuvant B-intervention
 chemotherapy I-intervention
-  I-intervention
 + I-intervention
 /- I-intervention
-  I-intervention
 letrozole I-intervention
 in O
 postmenopausal O
@@ -67947,7 +67884,6 @@ trigger I-outcome
 9.5 B-iv-cont-median
 vs. O
 2.8 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 p O
@@ -69029,9 +68965,7 @@ abemaciclib O
 in O
 advanced B-eligibility
 ER I-eligibility
-  I-eligibility
 + I-eligibility
-  I-eligibility
 BC I-eligibility
 via O
 an O
@@ -82432,13 +82366,11 @@ response I-outcome
 occurred O
 in O
 66 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 for O
 FV O
 and O
 54 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 for O
 FP O
@@ -82497,7 +82429,6 @@ were O
 41 B-iv-bin-percent
 and O
 43 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 , O
 respectively O
@@ -82514,13 +82445,11 @@ were O
 similar O
 , O
 3.3 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 for O
 FV O
 versus O
 5.9 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 for O
 FP O
@@ -82616,9 +82545,7 @@ patients B-eligibility
 with I-eligibility
 HER I-eligibility
 2 I-eligibility
-  I-eligibility
 + I-eligibility
-  I-eligibility
 metastatic I-eligibility
 breast I-eligibility
 cancer I-eligibility
@@ -83156,7 +83083,6 @@ described O
 . O
 At B-outcome
 12 I-outcome
-  I-outcome
 months I-outcome
 , O
 18 O
@@ -87753,7 +87679,6 @@ max I-outcome
 ( O
 + B-iv-cont-mean
 1.6 I-iv-cont-mean
-  I-iv-cont-mean
 ml I-iv-cont-mean
 / I-iv-cont-mean
 kg I-iv-cont-mean
@@ -87761,7 +87686,6 @@ kg I-iv-cont-mean
 minute I-iv-cont-mean
 ± O
 1.8 B-iv-cont-sd
-  I-iv-cont-sd
 mL I-iv-cont-sd
 / I-iv-cont-sd
 kg I-iv-cont-sd
@@ -87770,7 +87694,6 @@ minute I-iv-cont-sd
 vs. O
 - B-cv-cont-mean
 0.2 I-cv-cont-mean
-  I-cv-cont-mean
 mL I-cv-cont-mean
 / I-cv-cont-mean
 kg I-cv-cont-mean
@@ -87778,7 +87701,6 @@ kg I-cv-cont-mean
 minute I-cv-cont-mean
 ± O
 0.1 B-cv-cont-sd
-  I-cv-cont-sd
 mL I-cv-cont-sd
 / I-cv-cont-sd
 kg I-cv-cont-sd
@@ -87806,7 +87728,6 @@ vs. O
 m I-cv-cont-mean
 ± O
 56 B-cv-cont-sd
-  I-cv-cont-sd
 m I-cv-cont-sd
 , O
 respectively O
@@ -88584,7 +88505,6 @@ cancer I-outcome
 recurrence I-outcome
 after I-outcome
 10 I-outcome
-  I-outcome
 years I-outcome
 was O
 0.10 B-iv-cont-median
@@ -89807,7 +89727,6 @@ was O
 149.52 B-iv-cont-mean
 ± O
 25.39 B-iv-cont-sd
-  I-iv-cont-sd
 mg I-iv-cont-sd
 in O
 group O
@@ -89817,7 +89736,6 @@ and O
 199.52 B-cv-cont-mean
 ± O
 32.78 B-cv-cont-sd
-  I-cv-cont-sd
 mg I-cv-cont-sd
 in O
 group O
@@ -91615,7 +91533,6 @@ group O
 52.1 B-age
 vs. I-age
 41.6 I-age
-  I-age
 years I-age
 ; O
 P O
@@ -91682,7 +91599,6 @@ respectively O
 . O
 After O
 6 B-outcome
-  I-outcome
 months I-outcome
 , O
 hair B-outcome
@@ -91958,7 +91874,6 @@ EFS I-outcome-measure
 and O
 overall B-outcome-measure
 survival I-outcome-measure
-  I-outcome-measure
 through O
 the O
 adjuvant O
@@ -93123,7 +93038,6 @@ was O
 97.6 B-iv-bin-percent
 and O
 96.4 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 , O
 respectively O
@@ -105434,11 +105348,9 @@ doxorubicin I-eligibility
 cyclophosphamide I-eligibility
 every I-eligibility
 3 I-eligibility
-  I-eligibility
 weeks I-eligibility
 for I-eligibility
 6 I-eligibility
-  I-eligibility
 cycles I-eligibility
 were O
 enrolled O
@@ -105528,14 +105440,12 @@ pegfilgrastim O
 groups O
 was O
 1.2 B-iv-cont-mean
-  I-iv-cont-mean
 days I-iv-cont-mean
 ( O
 0.93 B-iv-cont-sd
 ) O
 and O
 1.2 B-cv-cont-mean
-  I-cv-cont-mean
 days I-cv-cont-mean
 ( O
 1.10 B-cv-cont-sd
@@ -105575,7 +105485,6 @@ endpoints O
 including O
 grade B-outcome
 ≥ I-outcome
-  I-outcome
 3 I-outcome
 neutropenia I-outcome
 ( O
@@ -107860,7 +107769,6 @@ radiologist O
 assessment O
 was O
 9.8 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 ( O
 90 O
@@ -107881,7 +107789,6 @@ nab O
 paclitaxel O
 and O
 11.2 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ( O
 90 O
@@ -107912,11 +107819,9 @@ overall I-outcome
 survival I-outcome
 was O
 42.4 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 and O
 34.0 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 respectively O
@@ -108503,7 +108408,6 @@ n O
 ) O
 age O
 ≤ B-age
-  I-age
 55 I-age
 years I-age
 at B-eligibility
@@ -108596,10 +108500,8 @@ groups O
 ( O
 - B-iv-cont-mean
 0.008 I-iv-cont-mean
-  I-iv-cont-mean
 ± O
 0.003 B-iv-cont-mean
-  I-iv-cont-mean
 g I-iv-cont-mean
 / I-iv-cont-mean
 cm I-iv-cont-mean
@@ -108610,7 +108512,6 @@ vs. O
 0.014 I-cv-cont-mean
 ± O
 0.003 B-cv-cont-sd
-  I-cv-cont-sd
 g I-cv-cont-sd
 / I-cv-cont-sd
 cm I-cv-cont-sd
@@ -108660,7 +108561,6 @@ loss I-outcome
 0.001 B-iv-cont-mean
 ± O
 0.005 B-iv-cont-sd
-  I-iv-cont-sd
 g I-iv-cont-sd
 / I-iv-cont-sd
 cm I-iv-cont-sd
@@ -108672,7 +108572,6 @@ vs. O
 0.014 I-cv-cont-mean
 ± O
 0.005 B-cv-cont-sd
-  I-cv-cont-sd
 g I-cv-cont-sd
 / I-cv-cont-sd
 cm I-cv-cont-sd
@@ -109610,7 +109509,6 @@ breast I-eligibility
 cancer I-eligibility
 ≤ I-eligibility
 5 I-eligibility
-  I-eligibility
 years I-eligibility
 ( O
 n O
@@ -110309,14 +110207,12 @@ were O
 given O
 to O
 37 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ( O
 PLD O
 ) O
 and O
 36 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ( O
 capecitabine O
@@ -110351,7 +110247,6 @@ Median B-outcome
 TTP I-outcome
 was O
 6.0 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 for O
 both O
@@ -110400,11 +110295,9 @@ survival I-outcome
 median O
 , O
 23.3 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 vs. O
 26.8 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ) O
 and O
@@ -110418,11 +110311,9 @@ failure I-outcome
 median O
 , O
 4.6 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 vs. O
 3.7 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ) O
 were O
@@ -110463,7 +110354,6 @@ exposure O
 18 B-cv-bin-percent
 vs. O
 8 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ; O
 P O
@@ -112334,7 +112224,6 @@ aged O
 50 B-age
 - I-age
 74 I-age
-  I-age
 years I-age
 of O
 age O
@@ -113629,9 +113518,7 @@ test O
 ) O
 . O
 Grade B-outcome
-  I-outcome
 ≥ I-outcome
-  I-outcome
 3 I-outcome
 adverse I-outcome
 events I-outcome
@@ -116707,7 +116594,6 @@ fitness I-outcome-measure
 assessed I-outcome-measure
 at I-outcome-measure
 12 I-outcome-measure
-  I-outcome-measure
 months I-outcome-measure
 only I-outcome-measure
 ) I-outcome-measure
@@ -117187,7 +117073,6 @@ week O
 3 O
 ( O
 2.5 B-iv-cont-mean
-  I-iv-cont-mean
 ± O
 0.5 B-iv-cont-sd
 vs. O
@@ -117454,11 +117339,9 @@ groups O
 ( O
 mean O
 39.8 B-iv-cont-mean
-  I-iv-cont-mean
 days I-iv-cont-mean
 vs O
 40.9 B-cv-cont-mean
-  I-cv-cont-mean
 days I-cv-cont-mean
 , O
 p O
@@ -122839,9 +122722,7 @@ e.g. O
 women O
 aged O
 ≥ B-age
-  I-age
 50 I-age
-  I-age
 years I-age
 with B-eligibility
 a I-eligibility
@@ -122864,9 +122745,7 @@ DCIS I-eligibility
 tumor I-eligibility
 size I-eligibility
 ≤ I-eligibility
-  I-eligibility
 3 I-eligibility
-  I-eligibility
 cm I-eligibility
 , I-eligibility
 node I-eligibility
@@ -122978,7 +122857,6 @@ of I-outcome-measure
 telangiectasia I-outcome-measure
 at I-outcome-measure
 two I-outcome-measure
-  I-outcome-measure
 years I-outcome-measure
 , O
 blindly O
@@ -123314,7 +123192,6 @@ cancer I-eligibility
 survivors I-eligibility
 within I-eligibility
 6 I-eligibility
-  I-eligibility
 months I-eligibility
 of I-eligibility
 completing I-eligibility
@@ -128871,7 +128748,6 @@ older O
 ( O
 ≥ B-age
 50 I-age
-  I-age
 years I-age
 of O
 age O
@@ -129132,7 +129008,6 @@ with I-eligibility
 BMI I-eligibility
 ≥ I-eligibility
 27.5 I-eligibility
-  I-eligibility
 kg I-eligibility
 / I-eligibility
 m I-eligibility
@@ -129183,7 +129058,6 @@ tools O
 . O
 At O
 6 B-outcome
-  I-outcome
 months I-outcome
 , O
 significant O
@@ -129197,7 +129071,6 @@ intervention O
 group O
 ( O
 4.7 B-iv-cont-mean
-  I-iv-cont-mean
 % I-iv-cont-mean
 loss O
 from O
@@ -129207,7 +129080,6 @@ weight O
 SD O
 = O
 4.7 B-iv-cont-sd
-  I-iv-cont-sd
 % I-iv-cont-sd
 ) O
 relative O
@@ -129216,14 +129088,12 @@ usual O
 care O
 ( O
 0.4 B-cv-cont-mean
-  I-cv-cont-mean
 % I-cv-cont-mean
 gain O
 ; O
 SD O
 = O
 3.0 B-cv-cont-sd
-  I-cv-cont-sd
 % I-cv-cont-sd
 ) O
 ( O
@@ -129234,7 +129104,6 @@ p O
 . O
 By O
 12 B-outcome
-  I-outcome
 months I-outcome
 , O
 the O
@@ -129243,7 +129112,6 @@ group O
 had O
 lost B-outcome
 3.7 B-iv-cont-mean
-  I-iv-cont-mean
 % I-iv-cont-mean
 of O
 weight B-outcome
@@ -129251,14 +129119,12 @@ weight B-outcome
 SD O
 = O
 5.4 B-iv-cont-sd
-  I-iv-cont-sd
 % I-iv-cont-sd
 ) O
 , O
 compared O
 to O
 1.3 B-cv-cont-mean
-  I-cv-cont-mean
 % I-cv-cont-mean
 ( O
 SD O
@@ -129276,7 +129142,6 @@ p O
 . O
 At O
 12 B-outcome
-  I-outcome
 months I-outcome
 , O
 accelerometer O
@@ -129292,7 +129157,6 @@ activity I-outcome
 increased O
 by O
 12 B-iv-cont-mean
-  I-iv-cont-mean
 min I-iv-cont-mean
 / I-iv-cont-mean
 day I-iv-cont-mean
@@ -134944,12 +134808,10 @@ control O
 ( O
 n O
 = O
-  B-control-participants
 145 I-control-participants
 ) O
 were O
 + B-iv-cont-mean
-  I-iv-cont-mean
 0.59 I-iv-cont-mean
 ( O
 SD O
@@ -134958,7 +134820,6 @@ SD O
 ) O
 and O
 + B-cv-cont-mean
-  I-cv-cont-mean
 0.11 I-cv-cont-mean
 ( O
 SD O
@@ -134969,7 +134830,6 @@ for B-outcome
 anxiety I-outcome
 and O
 + B-iv-cont-mean
-  I-iv-cont-mean
 0.81 I-iv-cont-mean
 ( O
 SD O
@@ -134978,7 +134838,6 @@ SD O
 ) O
 and O
 + B-cv-cont-mean
-  I-cv-cont-mean
 0.45 I-cv-cont-mean
 ( O
 SD O
@@ -138482,7 +138341,6 @@ BMI I-eligibility
 ) I-eligibility
 > I-eligibility
 25 I-eligibility
-  I-eligibility
 kg I-eligibility
 / I-eligibility
 m I-eligibility
@@ -138918,9 +138776,7 @@ associated I-intervention
 with I-intervention
 SAM I-intervention
 block I-intervention
-  I-intervention
 + I-intervention
-  I-intervention
 PECS I-intervention
 I I-intervention
 ( O
@@ -146988,7 +146844,6 @@ P O
 at B-outcome
 postoperative I-outcome
 6 I-outcome
-  I-outcome
 h I-outcome
 ( O
 3.0 B-iv-cont-mean
@@ -147010,7 +146865,6 @@ and O
 at B-outcome
 postoperative I-outcome
 24 I-outcome
-  I-outcome
 h I-outcome
 ( O
 3.1 B-iv-cont-mean
@@ -151638,7 +151492,6 @@ PFS I-outcome-measure
 rate I-outcome-measure
 at I-outcome-measure
 24 I-outcome-measure
-  I-outcome-measure
 weeks I-outcome-measure
 ; O
 non O
@@ -151720,7 +151573,6 @@ week I-outcome
 24 I-outcome
 was O
 61.5 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ( O
 goserelin O
@@ -151729,7 +151581,6 @@ mg O
 ) O
 and O
 60.2 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ( O
 goserelin O
@@ -151771,7 +151622,6 @@ mg O
 ORR B-outcome
 was O
 23.9 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ( O
 goserelin O
@@ -151780,7 +151630,6 @@ mg O
 ) O
 and O
 26.9 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ( O
 goserelin O
@@ -151829,13 +151678,11 @@ mg O
 groups O
 ( O
 20.3 B-iv-cont-mean
-  I-iv-cont-mean
 pg I-iv-cont-mean
 / I-iv-cont-mean
 mL I-iv-cont-mean
 and O
 24.8 B-cv-cont-mean
-  I-cv-cont-mean
 pg I-cv-cont-mean
 / I-cv-cont-mean
 mL I-cv-cont-mean
@@ -153259,7 +153106,6 @@ by O
 % O
 at B-outcome
 24 I-outcome
-  I-outcome
 h I-outcome
 compared O
 to O
@@ -153268,16 +153114,13 @@ control O
 group O
 ( O
 5.76 B-iv-cont-mean
-  I-iv-cont-mean
 ± O
 3.8 B-iv-cont-sd
-  I-iv-cont-sd
 mg I-iv-cont-sd
 vs O
 16.6 B-cv-cont-mean
 ± O
 6.92 B-cv-cont-sd
-  I-cv-cont-sd
 mg I-cv-cont-sd
 ) O
 . O
@@ -154714,7 +154557,6 @@ bouts I-outcome
 ( I-outcome
 ≥ I-outcome
 20 I-outcome
-  I-outcome
 min I-outcome
 ) I-outcome
 of I-outcome
@@ -155050,7 +154892,6 @@ pain B-outcome
 score I-outcome
 at I-outcome
 6 I-outcome
-  I-outcome
 h I-outcome
 postoperatively I-outcome
 ( O
@@ -156801,7 +156642,6 @@ others I-outcome
 . O
 At B-outcome
 6 I-outcome
-  I-outcome
 weeks I-outcome
 , O
 intervention O
@@ -157372,7 +157212,6 @@ speaking I-eligibility
 Latinas I-eligibility
 within I-eligibility
 1 I-eligibility
-  I-eligibility
 year I-eligibility
 of I-eligibility
 breast I-eligibility
@@ -157449,9 +157288,7 @@ was O
 50.1 B-age
 ( I-age
 SD I-age
-  I-age
 = I-age
-  I-age
 10.9 I-age
 ) I-age
 years I-age
@@ -157889,13 +157726,9 @@ severe I-outcome-measure
 neutropenia I-outcome-measure
 ( I-outcome-measure
 ANC I-outcome-measure
-  I-outcome-measure
 < I-outcome-measure
-  I-outcome-measure
 0.5 I-outcome-measure
-  I-outcome-measure
 × I-outcome-measure
-  I-outcome-measure
 109 I-outcome-measure
 /L I-outcome-measure
 ) I-outcome-measure
@@ -157963,7 +157796,6 @@ RGB- O
 ) O
 and O
 1.6 B-cv-cont-mean
-  I-cv-cont-mean
 days I-cv-cont-mean
 ( O
 reference O
@@ -158188,7 +158020,6 @@ between B-age
 55 I-age
 and I-age
 80 I-age
-  I-age
 years I-age
 underwent O
 primary O
@@ -158438,7 +158269,6 @@ and I-outcome
 7 I-outcome
 at I-outcome
 12 I-outcome
-  I-outcome
 months I-outcome
 postoperatively I-outcome
 ( O
@@ -158467,7 +158297,6 @@ and I-outcome
 7 I-outcome
 at I-outcome
 24 I-outcome
-  I-outcome
 months I-outcome
 postoperatively I-outcome
 ( O
@@ -161171,7 +161000,6 @@ mild I-outcome
 pain I-outcome
 ( O
 53 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 [ O
 1 B-iv-bin-abs
@@ -161185,7 +161013,6 @@ pain I-outcome
 denosumab O
 ; O
 50 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 [ O
 1 B-cv-bin-abs
@@ -161217,7 +161044,6 @@ median O
 6.5 B-iv-cont-median
 vs O
 4.7 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ; O
 hazard O
@@ -161259,7 +161085,6 @@ median O
 10.3 B-iv-cont-median
 vs O
 7.7 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ; O
 hazard O
@@ -162177,7 +162002,6 @@ Patients O
 aged O
 < B-age
 50 I-age
-  I-age
 years I-age
 including O
 98 B-intervention-participants
@@ -162207,7 +162031,6 @@ was O
 3.0 B-iv-bin-percent
 and O
 2.4 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 by O
 PBI O
@@ -162239,7 +162062,6 @@ survival I-outcome
 97.6 B-iv-bin-percent
 and O
 91.4 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 for O
 PBI O
@@ -162581,7 +162403,6 @@ survival O
 Patients O
 with O
 ≥ B-outcome
-  I-outcome
 1 I-outcome
 severe I-outcome
 side I-outcome
@@ -162598,7 +162419,6 @@ were O
 173 B-cv-bin-abs
 / O
 703 B-control-participants
-  I-control-participants
 = O
 24.6 B-cv-bin-percent
 % I-cv-bin-percent
@@ -164251,12 +164071,10 @@ control O
 group O
 ( O
 + B-iv-cont-mean
-  I-iv-cont-mean
 22.5 I-iv-cont-mean
 % I-iv-cont-mean
 vs. O
 + B-cv-cont-mean
-  I-cv-cont-mean
 2.7 I-cv-cont-mean
 % I-cv-cont-mean
 , O
@@ -164339,7 +164157,6 @@ to O
 control O
 ( O
 + B-iv-cont-mean
-  I-iv-cont-mean
 146.2 I-iv-cont-mean
 % I-iv-cont-mean
 vs. O
@@ -165664,7 +165481,6 @@ Patients O
 ( O
 ≥ B-age
 50 I-age
-  I-age
 years I-age
 ) O
 with B-eligibility
@@ -167390,7 +167206,6 @@ to O
 ] O
 at B-outcome
 0 I-outcome
-  I-outcome
 h I-outcome
 , O
 1 O
@@ -167401,7 +167216,6 @@ to O
 ] O
 at B-outcome
 48 I-outcome
-  I-outcome
 h I-outcome
 , O
 and O
@@ -167413,7 +167227,6 @@ to O
 ] O
 at B-outcome
 72 I-outcome
-  I-outcome
 h I-outcome
 ; O
 and O
@@ -167428,7 +167241,6 @@ to O
 ] O
 at B-outcome
 0 I-outcome
-  I-outcome
 h I-outcome
 , O
 0 O
@@ -167439,7 +167251,6 @@ to O
 ] O
 at B-outcome
 48 I-outcome
-  I-outcome
 h I-outcome
 , O
 and O
@@ -167451,7 +167262,6 @@ to O
 ] O
 at B-outcome
 72 I-outcome
-  I-outcome
 h I-outcome
 ; O
 rate O
@@ -171847,7 +171657,6 @@ D I-outcome-measure
 ) I-outcome-measure
 at I-outcome-measure
 12 I-outcome-measure
-  I-outcome-measure
 weeks I-outcome-measure
 . O
 Secondary O
@@ -173226,7 +173035,6 @@ rotation I-outcome
 at I-outcome
 0 I-outcome
 ° I-outcome
-  I-outcome
 = O
 23.4 O
 ° O
@@ -173247,7 +173055,6 @@ rotation I-outcome
 at I-outcome
 90 I-outcome
 ° I-outcome
-  I-outcome
 = O
 34.3 O
 ° O
@@ -173782,7 +173589,6 @@ of I-eligibility
 more I-eligibility
 than I-eligibility
 1 I-eligibility
-  I-eligibility
 year I-eligibility
 . O
 Subjects O
@@ -174745,7 +174551,6 @@ Programme O
 
 Phototherapy B-intervention
 660 I-intervention
-  I-intervention
 nm I-intervention
 for O
 the O
@@ -180246,7 +180051,6 @@ aged O
 55 B-age
 - I-age
 75 I-age
-  I-age
 years I-age
 who B-eligibility
 started I-eligibility
@@ -180384,13 +180188,9 @@ patients O
 ( O
 mean B-age
 age I-age
-  I-age
 = I-age
-  I-age
 66.87 I-age
-  I-age
 ± I-age
-  I-age
 4.38 I-age
 ) O
 were O
@@ -180804,7 +180604,6 @@ edema I-outcome
 reached O
 - B-iv-cont-mean
 67.6 I-iv-cont-mean
-  I-iv-cont-mean
 mL I-iv-cont-mean
 in O
 the O
@@ -180812,7 +180611,6 @@ CG O
 vs. O
 + B-cv-cont-mean
 114.5 I-cv-cont-mean
-  I-cv-cont-mean
 mL I-cv-cont-mean
 in O
 the O
@@ -182236,7 +182034,6 @@ care I-control
 ( O
 n O
 = O
-  B-control-participants
 50 I-control-participants
 ) O
 . O
@@ -188217,7 +188014,6 @@ TSH B-outcome
 median O
 = O
 0.33 B-iv-cont-median
-  I-iv-cont-median
 mU I-iv-cont-median
 / I-iv-cont-median
 l I-iv-cont-median
@@ -188247,7 +188043,6 @@ healthy O
 women O
 ( O
 0.51 B-cv-cont-median
-  I-cv-cont-median
 mU I-cv-cont-median
 / I-cv-cont-median
 l I-cv-cont-median
@@ -191190,7 +190985,6 @@ no I-outcome
 ) I-outcome
 at I-outcome
 6 I-outcome
-  I-outcome
 months I-outcome
 attributed O
 to O
@@ -191527,9 +191321,7 @@ neutropenia B-outcome
 ( I-outcome
 grade I-outcome
 3 I-outcome
-  I-outcome
 + I-outcome
-  I-outcome
 4 I-outcome
 ) I-outcome
 was O
@@ -199423,7 +199215,6 @@ PFS I-outcome
 20.2 B-iv-cont-median
 vs O
 10.2 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 respectively O
@@ -199593,7 +199384,6 @@ was O
 37.5 B-iv-cont-median
 and O
 34.5 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 respectively O
@@ -199621,7 +199411,6 @@ alone O
 26.7 B-iv-cont-median
 and O
 17.7 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 , O
 respectively O
@@ -200195,7 +199984,6 @@ specific I-outcome
 survival I-outcome
 at B-outcome
 10 I-outcome
-  I-outcome
 years I-outcome
 was O
 73 O
@@ -200302,7 +200090,6 @@ at B-outcome
 and O
 at B-outcome
 10 I-outcome
-  I-outcome
 years I-outcome
 were O
 13 B-iv-bin-percent
@@ -201850,9 +201637,7 @@ patients I-eligibility
 receiving I-eligibility
 cisplatin I-eligibility
 ≥ I-eligibility
-  I-eligibility
 70 I-eligibility
-  I-eligibility
 mg I-eligibility
 / I-eligibility
 m I-eligibility
@@ -201959,7 +201744,6 @@ rate I-outcome
 24 I-outcome
 - I-outcome
 120 I-outcome
-  I-outcome
 h I-outcome
 ) I-outcome
 was O
@@ -203650,7 +203434,6 @@ during O
 2010 O
 , O
 13 B-total-participants
-  I-total-participants
 339 I-total-participants
 high B-eligibility
 - I-eligibility
@@ -203855,13 +203638,11 @@ $ B-iv-cont-mean
 , O
 $ B-cv-cont-mean
 45 I-cv-cont-mean
-  I-cv-cont-mean
 253 I-cv-cont-mean
 , O
 and O
 $ B-iv-cont-mean
 21 I-iv-cont-mean
-  I-iv-cont-mean
 599 I-iv-cont-mean
 , O
 respectively O
@@ -204396,7 +204177,6 @@ initiation O
 . O
 After O
 24 B-outcome
-  I-outcome
 months I-outcome
 , O
 BMD B-outcome
@@ -204683,9 +204463,7 @@ breast I-eligibility
 cancer I-eligibility
 aged O
 ≥ B-age
-  I-age
 65 I-age
-  I-age
 years I-age
 were O
 enrolled O
@@ -204869,7 +204647,6 @@ Median B-outcome
 EFS I-outcome
 was O
 8.2 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 ( O
 90 O
@@ -204889,7 +204666,6 @@ arm O
 A O
 vs O
 8.3 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ( O
 90 O
@@ -206505,9 +206281,7 @@ The O
 incidence B-outcome
 of I-outcome
 OM I-outcome
-  I-outcome
 ≥ I-outcome
-  I-outcome
 G I-outcome
 1 I-outcome
 at O
@@ -207262,7 +207036,6 @@ QM O
 We O
 obtained O
 33 B-total-participants
-  I-total-participants
 146 I-total-participants
 records O
 of O
@@ -207298,7 +207071,6 @@ offered O
 appointment O
 . O
 26 B-total-participants
-  I-total-participants
 054 I-total-participants
 women O
 were O
@@ -207308,7 +207080,6 @@ this O
 analysis O
 ( O
 12 B-intervention-participants
-  I-intervention-participants
 807 I-intervention-participants
 in O
 the O
@@ -207316,7 +207087,6 @@ intervention O
 group O
 and O
 13 B-control-participants
-  I-control-participants
 247 I-control-participants
 in O
 the O
@@ -207348,7 +207118,6 @@ group O
 ] O
 of O
 12 B-intervention-participants
-  I-intervention-participants
 807 I-intervention-participants
 ) O
 than O
@@ -207364,7 +207133,6 @@ group O
 ] O
 of O
 13 B-control-participants
-  I-control-participants
 247 I-control-participants
 ) O
 ; O
@@ -209759,13 +209527,11 @@ survival O
 ) O
 was O
 1.2 B-iv-cont-median
-  I-iv-cont-median
 years I-iv-cont-median
 for O
 capecitabine O
 and O
 1.3 B-cv-cont-median
-  I-cv-cont-median
 years I-cv-cont-median
 for O
 S- O
@@ -209812,13 +209578,11 @@ response I-outcome
 rates I-outcome
 were O
 24.0 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 for O
 capecitabine O
 and O
 23.1 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 for O
 S- O
@@ -209851,13 +209615,11 @@ S- O
 1 O
 : O
 9.2 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 , O
 capecitabine O
 : O
 1.4 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ; O
 P O
@@ -209871,13 +209633,11 @@ S- O
 1 O
 : O
 26.2 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 , O
 capecitabine O
 : O
 14.1 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ; O
 P O
@@ -209910,13 +209670,11 @@ S- O
 1 O
 : O
 10.8 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 , O
 capecitabine O
 : O
 25.4 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ; O
 P O
@@ -210296,7 +210054,6 @@ group O
 ( O
 n O
 = O
-  B-control-participants
 50 I-control-participants
 ) O
 . O
@@ -210325,7 +210082,6 @@ SD O
 age O
 was O
 53.5 B-age
-  I-age
 ( I-age
 10.4 I-age
 ) I-age
@@ -213944,7 +213700,6 @@ lenograstim O
 4.9 B-iv-cont-mean
 vs. O
 5.7 B-cv-cont-mean
-  I-cv-cont-mean
 μg I-cv-cont-mean
 / I-cv-cont-mean
 kg I-cv-cont-mean
@@ -213954,7 +213709,6 @@ day I-cv-cont-mean
 5 B-iv-cont-mean
 vs. O
 7 B-cv-cont-mean
-  I-cv-cont-mean
 days I-cv-cont-mean
 ; O
 p O
@@ -217255,7 +217009,6 @@ mean B-outcome
 DSN I-outcome
 was O
 0.76 B-iv-cont-mean
-  I-iv-cont-mean
 days I-iv-cont-mean
 in O
 the O
@@ -217265,7 +217018,6 @@ lipegfilgrastim O
 group O
 and O
 0.87 B-cv-cont-mean
-  I-cv-cont-mean
 days I-cv-cont-mean
 in O
 the O
@@ -221641,7 +221393,6 @@ CC B-outcome
 3 I-outcome
 ( O
 - B-iv-cont-mean
-  I-iv-cont-mean
 55.9 I-iv-cont-mean
 % I-iv-cont-mean
 vs. O
@@ -221674,13 +221425,11 @@ D O
 arm O
 ( O
 62 B-iv-cont-mean
-  I-iv-cont-mean
 nmol I-iv-cont-mean
 / I-iv-cont-mean
 L I-iv-cont-mean
 vs. O
 246 B-cv-cont-mean
-  I-cv-cont-mean
 nmol I-cv-cont-mean
 / I-cv-cont-mean
 L I-cv-cont-mean
@@ -225576,7 +225325,6 @@ with O
 neratinib O
 was O
 5 B-iv-cont-median
-  I-iv-cont-median
 days I-iv-cont-median
 ( O
 interquartile O
@@ -229995,11 +229743,9 @@ grade I-outcome
 dermatitis I-outcome
 ( O
 46 B-iv-cont-mean
-  I-iv-cont-mean
 days I-iv-cont-mean
 vs O
 35.5 B-cv-cont-mean
-  I-cv-cont-mean
 days I-cv-cont-mean
 , O
 respectively O
@@ -231962,9 +231708,7 @@ CRF I-eligibility
 Brief I-eligibility
 Fatigue I-eligibility
 Inventory I-eligibility
-  I-eligibility
 > I-eligibility
-  I-eligibility
 25 I-eligibility
 ) I-eligibility
 . O
@@ -236323,11 +236067,8 @@ n= O
 mean O
 age O
 51.9 B-age
-  I-age
 ± I-age
-  I-age
 9.8 I-age
-  I-age
 years I-age
 ) O
 and O
@@ -236342,11 +236083,8 @@ n O
 mean O
 age O
 56.9 B-age
-  I-age
 ± I-age
-  I-age
 7.0 I-age
-  I-age
 years I-age
 ) O
 . O
@@ -236722,9 +236460,7 @@ NCT O
 we O
 enrolled O
 ≥ B-age
-  I-age
 18 I-age
-  I-age
 years I-age
 old O
 women B-eligibility
@@ -236751,7 +236487,6 @@ ECOG I-eligibility
 PS I-eligibility
 ) I-eligibility
 ≤ I-eligibility
-  I-eligibility
 1 I-eligibility
 , I-eligibility
 treated I-eligibility
@@ -236759,7 +236494,6 @@ for I-eligibility
 at I-eligibility
 least I-eligibility
 1 I-eligibility
-  I-eligibility
 month I-eligibility
 with I-eligibility
 adjuvant I-eligibility
@@ -236942,7 +236676,6 @@ and I-outcome-measure
 tolerance I-outcome-measure
 assessed I-outcome-measure
 8 I-outcome-measure
-  I-outcome-measure
 weeks I-outcome-measure
 after I-outcome-measure
 randomization I-outcome-measure
@@ -236999,13 +236732,11 @@ variation I-outcome
 A O
 , O
 - B-iv-cont-median
-  I-iv-cont-median
 2.9 I-iv-cont-median
 ; O
 P O
 , O
 - B-cv-cont-median
-  I-cv-cont-median
 2.5 I-cv-cont-median
 points I-cv-cont-median
 , O
@@ -237701,11 +237432,8 @@ patients O
 age O
 : O
 45.6 B-age
-  I-age
 ± I-age
-  I-age
 2.7 I-age
-  I-age
 yrs I-age
 ) O
 surgically B-eligibility
@@ -245040,7 +244768,6 @@ aged O
 50 B-age
 - I-age
 69 I-age
-  I-age
 years I-age
 invited O
 to O
@@ -253762,7 +253489,6 @@ Median B-outcome
 PFS I-outcome
 was O
 10.8 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 ( O
 95 O
@@ -253779,7 +253505,6 @@ therapy O
 , O
 and O
 6.5 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ( O
 95 O
@@ -254081,9 +253806,7 @@ with I-eligibility
 breast I-eligibility
 cancer I-eligibility
 ≥ I-eligibility
-  I-eligibility
 3 I-eligibility
-  I-eligibility
 years I-eligibility
 ago I-eligibility
 ( I-eligibility
@@ -257115,14 +256838,12 @@ statistically O
 control O
 ( O
 96 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ) O
 , O
 lidocaine O
 ( O
 90 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 , O
@@ -257130,7 +256851,6 @@ sodium O
 bicarbonate O
 ( O
 97 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 , O
@@ -257141,7 +256861,6 @@ bicarbonate O
 lidocaine O
 ( O
 90 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 . O
@@ -261378,7 +261097,6 @@ trials O
 that O
 involved O
 27 B-total-participants
-  I-total-participants
 347 I-total-participants
 postmenopausal B-eligibility
 women I-eligibility
@@ -261424,7 +261142,6 @@ the O
 trial O
 involving O
 16 B-total-participants
-  I-total-participants
 608 I-total-participants
 women O
 with O
@@ -261468,7 +261185,6 @@ the O
 trial O
 involving O
 10 B-total-participants
-  I-total-participants
 739 I-total-participants
 women O
 with O
@@ -261561,7 +261277,6 @@ cancer I-outcome-measure
 . O
 Among O
 27 B-total-participants
-  I-total-participants
 347 I-total-participants
 postmenopausal O
 women O
@@ -261616,7 +261331,6 @@ with O
 placebo O
 among O
 10 B-intervention-participants
-  I-intervention-participants
 739 I-intervention-participants
 women O
 with O
@@ -261734,7 +261448,6 @@ with O
 placebo O
 among O
 16 B-control-participants
-  I-control-participants
 608 I-control-participants
 women O
 with O
@@ -266093,9 +265806,7 @@ was O
 histopathology B-outcome-measure
 of I-outcome-measure
 ARM I-outcome-measure
-  I-outcome-measure
 + I-outcome-measure
-  I-outcome-measure
 ve I-outcome-measure
 LN I-outcome-measure
 , O
@@ -268791,7 +268502,6 @@ through O
 Participants O
 were O
 48 B-total-participants
-  I-total-participants
 835 I-total-participants
 postmenopausal B-eligibility
 women I-eligibility
@@ -268829,7 +268539,6 @@ group O
 n O
 = O
 19 B-intervention-participants
-  I-intervention-participants
 541 I-intervention-participants
 ) O
 with O
@@ -268866,7 +268575,6 @@ group I-control
 n O
 = O
 29 B-control-participants
-  I-control-participants
 294 I-control-participants
 ) O
 . O
@@ -271007,9 +270715,7 @@ age B-age
 y I-age
 ) I-age
 51.9 I-age
-  I-age
 ± I-age
-  I-age
 8.8 I-age
 ; O
 time O
@@ -271571,7 +271277,6 @@ Carvedilol B-intervention
 to O
 Prevent O
 Trastuzumab B-condition
-  I-condition
 Cardiotoxicity I-condition
 in O
 Patients O
@@ -271691,7 +271396,6 @@ with I-eligibility
 trastuzumab I-eligibility
 for I-eligibility
 12 I-eligibility
-  I-eligibility
 months I-eligibility
 were O
 evaluated O
@@ -275712,7 +275416,6 @@ CEF O
 31.8 B-iv-bin-percent
 vs. O
 17.6 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 , O
 one O
@@ -275759,7 +275462,6 @@ CEF O
 ) O
 vs. O
 26.3 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ( O
 10 B-cv-bin-abs
@@ -275796,7 +275498,6 @@ CEF O
 65.9 B-iv-bin-percent
 vs. O
 38.5 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ) O
 . O
@@ -276986,7 +276687,6 @@ injection O
 method O
 was O
 1.64 B-iv-cont-mean
-  I-iv-cont-mean
 ± O
 0.6 B-iv-cont-sd
 nodes O
@@ -281351,7 +281051,6 @@ receiving I-eligibility
 adjuvant I-eligibility
 paclitaxel I-eligibility
 80 I-eligibility
-  I-eligibility
 mg I-eligibility
 / I-eligibility
 m I-eligibility
@@ -281359,7 +281058,6 @@ m I-eligibility
 weekly I-eligibility
 for I-eligibility
 12 I-eligibility
-  I-eligibility
 weeks I-eligibility
 . O
 Eligible O
@@ -282575,7 +282273,6 @@ reference O
 : O
 n O
 = O
-  B-control-participants
 310 I-control-participants
 ) O
 . O
@@ -282624,7 +282321,6 @@ groups O
 days I-iv-cont-sd
 versus O
 1.01 B-cv-cont-mean
-  I-cv-cont-mean
 ± O
 0.958 B-cv-cont-sd
 days I-cv-cont-sd
@@ -283576,7 +283272,6 @@ for I-eligibility
 ANT I-eligibility
 ( I-eligibility
 240 I-eligibility
-  I-eligibility
 mg I-eligibility
 / I-eligibility
 m I-eligibility
@@ -283598,7 +283293,6 @@ was O
 prevention B-outcome-measure
 of I-outcome-measure
 a I-outcome-measure
-  I-outcome-measure
 ≥ I-outcome-measure
 10 I-outcome-measure
 % I-outcome-measure
@@ -283607,7 +283301,6 @@ in I-outcome-measure
 LVEF I-outcome-measure
 at I-outcome-measure
 6 I-outcome-measure
-  I-outcome-measure
 months I-outcome-measure
 . O
 Secondary O
@@ -283754,25 +283447,21 @@ group O
 44.1 B-iv-cont-mean
 ± O
 3.64 B-iv-cont-sd
-  I-iv-cont-sd
 mm I-iv-cont-sd
 to O
 45.2 B-iv-cont-mean
 ± O
 3.2 B-iv-cont-sd
-  I-iv-cont-sd
 mm I-iv-cont-sd
 vs. O
 44.9 B-cv-cont-mean
 ± O
 3.6 B-cv-cont-sd
-  I-cv-cont-sd
 mm I-cv-cont-sd
 to O
 46.4 B-cv-cont-mean
 ± O
 4.0 B-cv-cont-sd
-  I-cv-cont-sd
 mm I-cv-cont-sd
 ; O
 p O
@@ -287019,7 +286708,6 @@ postoperative B-outcome
 pain I-outcome
 at I-outcome
 6 I-outcome
-  I-outcome
 months I-outcome
 in O
 the O
@@ -287253,7 +286941,6 @@ was O
 used O
 ( O
 3.8 B-iv-cont-mean
-  I-iv-cont-mean
 ± O
 1.5 B-iv-cont-sd
 versus O
@@ -287283,10 +286970,8 @@ shorter O
 1.87 B-iv-cont-sd
 versus O
 5.65 B-cv-cont-mean
-  I-cv-cont-mean
 ± O
 2.95 B-cv-cont-sd
-  I-cv-cont-sd
 min I-cv-cont-sd
 ; O
 P O
@@ -287537,7 +287222,6 @@ months O
 was O
 - B-iv-cont-median
 0.9 I-iv-cont-median
-  I-iv-cont-median
 % I-iv-cont-median
 ( O
 - O
@@ -287562,7 +287246,6 @@ CON O
 and O
 - B-iv-cont-median
 0.2 I-iv-cont-median
-  I-iv-cont-median
 % I-iv-cont-median
 ( O
 - O
@@ -287589,7 +287272,6 @@ CON O
 versus O
 a O
 0.2 B-cv-cont-median
-  I-cv-cont-median
 % I-cv-cont-median
 ( O
 - O
@@ -287627,7 +287309,6 @@ was O
 , O
 and O
 45.5 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 , O
 respectively O
@@ -287652,7 +287333,6 @@ wore I-outcome
 trackers I-outcome
 ≥ I-outcome
 5 I-outcome
-  I-outcome
 days I-outcome
 / I-outcome
 week I-outcome
@@ -287660,19 +287340,16 @@ week I-outcome
 INT+ O
 , O
 81.9 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 vs. O
 INT O
 , O
 38.5 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 vs. O
 CON O
 , O
 0 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ; O
 p O
@@ -288005,9 +287682,7 @@ were O
 randomized O
 to O
 T B-control
-  I-control
 + I-control
-  I-control
 P I-control
 and O
 42 B-intervention-participants

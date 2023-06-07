@@ -6162,13 +6162,11 @@ median B-outcome
 PFS I-outcome
 was O
 6.6 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 with O
 eribulin O
 versus O
 4.2 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 with O
 TPC O
@@ -6200,13 +6198,11 @@ Median B-outcome
 TTF I-outcome
 was O
 6.0 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 with O
 eribulin O
 versus O
 3.6 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 with O
 TPC O
@@ -6242,9 +6238,7 @@ The O
 most O
 common O
 grade B-outcome
-  I-outcome
 ≥ I-outcome
-  I-outcome
 3 I-outcome
 adverse I-outcome
 event I-outcome
@@ -10448,7 +10442,6 @@ median B-outcome
 OS I-outcome
 of O
 46.7 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 for O
 abemaciclib O
@@ -13142,7 +13135,6 @@ II I-outcome-measure
 ) I-outcome-measure
 at I-outcome-measure
 12 I-outcome-measure
-  I-outcome-measure
 weeks I-outcome-measure
 defined O
 as O
@@ -26515,7 +26507,6 @@ problem I-outcome-measure
 rating I-outcome-measure
 at I-outcome-measure
 26 I-outcome-measure
-  I-outcome-measure
 weeks I-outcome-measure
 after I-outcome-measure
 randomisation I-outcome-measure
@@ -27537,7 +27528,6 @@ Postmenopausal B-eligibility
 women I-eligibility
 ≥ I-eligibility
 18 I-eligibility
-  I-eligibility
 years I-eligibility
 with I-eligibility
 stages I-eligibility
@@ -28292,7 +28282,6 @@ aged O
 18 B-age
 - I-age
 65 I-age
-  I-age
 years I-age
 , O
 ECOG B-eligibility
@@ -29015,7 +29004,6 @@ was O
 2.08 B-cv-cont-mean
 ± O
 0.85 B-cv-cont-sd
-  I-cv-cont-sd
 days I-cv-cont-sd
 for O
 the O
@@ -29025,7 +29013,6 @@ and O
 2.28 B-iv-cont-mean
 ± O
 1.14 B-iv-cont-sd
-  I-iv-cont-sd
 days I-iv-cont-sd
 for O
 the O
@@ -29113,7 +29100,6 @@ and O
 9.83 B-iv-cont-mean
 ± O
 1.56 B-iv-cont-sd
-  I-iv-cont-sd
 days I-iv-cont-sd
 in O
 the O
@@ -29140,7 +29126,6 @@ in O
 six B-cv-bin-abs
 ( O
 15.8 B-cv-bin-percent
-  I-cv-bin-percent
 % I-cv-bin-percent
 ) O
 patients O
@@ -29151,7 +29136,6 @@ in O
 ten B-iv-bin-abs
 ( O
 27.8 B-iv-bin-percent
-  I-iv-bin-percent
 % I-iv-bin-percent
 ) O
 patients O
@@ -31556,7 +31540,6 @@ mGPS O
 Patients B-eligibility
 with I-eligibility
 ≤ I-eligibility
-  I-eligibility
 2 I-eligibility
 prior I-eligibility
 chemotherapy I-eligibility
@@ -31635,11 +31618,9 @@ median B-outcome
 OS I-outcome
 was O
 11.2 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 versus O
 10.9 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ( O
 log O
@@ -31661,11 +31642,9 @@ PFS I-outcome
 ) I-outcome
 was O
 4.5 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 versus O
 2.5 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 ( O
 log O

@@ -200,7 +200,6 @@ donor I-outcome
 site I-outcome
 was O
 291 B-iv-cont-mean
-  I-iv-cont-mean
 mL I-iv-cont-mean
 in O
 the O
@@ -208,7 +207,6 @@ treatment O
 group O
 and O
 434 B-cv-cont-mean
-  I-cv-cont-mean
 mL I-cv-cont-mean
 in O
 the O
@@ -2423,13 +2421,11 @@ median B-outcome
 OS I-outcome
 was O
 19.3 B-iv-cont-median
-  I-iv-cont-median
 months I-iv-cont-median
 with O
 olaparib O
 versus O
 17.1 B-cv-cont-median
-  I-cv-cont-median
 months I-cv-cont-median
 with O
 TPC O
@@ -4011,11 +4007,8 @@ SD O
 age O
 , O
 53.8 B-age
-  I-age
 ± I-age
-  I-age
 8.2 I-age
-  I-age
 years I-age
 ) O
 . O
@@ -6173,11 +6166,9 @@ mean O
 times O
 of O
 5.15 B-cv-cont-mean
-  I-cv-cont-mean
 y I-cv-cont-mean
 and O
 5.38 B-iv-cont-mean
-  I-iv-cont-mean
 y I-iv-cont-mean
 , O
 respectively O
@@ -14327,7 +14318,6 @@ patients I-eligibility
 treated I-eligibility
 with I-eligibility
 docetaxel I-eligibility
-  I-eligibility
 and I-eligibility
 doxorubicin I-eligibility
 - I-eligibility
@@ -19511,7 +19501,6 @@ rating I-outcome-measure
 scale I-outcome-measure
 at I-outcome-measure
 1 I-outcome-measure
-  I-outcome-measure
 month I-outcome-measure
 postmastectomy I-outcome-measure
 . I-outcome-measure
@@ -28044,9 +28033,7 @@ neutrophil I-eligibility
 count I-eligibility
 ≥ I-eligibility
 1.5 I-eligibility
-  I-eligibility
 × I-eligibility
-  I-eligibility
 109 I-eligibility
 cells I-eligibility
 / I-eligibility
@@ -28402,14 +28389,12 @@ BCAC O
 ( O
 cases O
 = O
-  B-intervention-participants
 46 I-intervention-participants
 , I-intervention-participants
 325 I-intervention-participants
 , O
 controls B-control
 = O
-  B-control-participants
 42 I-control-participants
 , I-control-participants
 482 I-control-participants
@@ -29579,7 +29564,6 @@ vs. O
 17.9 B-cv-cont-mean
 ± O
 20.1 B-cv-cont-sd
-  I-cv-cont-sd
 min I-cv-cont-sd
 ; O
 p= O
@@ -32814,11 +32798,8 @@ late O
 s O
 ( O
 58.5 B-age
-  I-age
 ± I-age
-  I-age
 9.2 I-age
-  I-age
 years I-age
 ) O
 and O
@@ -37297,7 +37278,6 @@ pain B-outcome-measure
 related I-outcome-measure
 disability I-outcome-measure
 1 I-outcome-measure
-  I-outcome-measure
 year I-outcome-measure
 after I-outcome-measure
 surgery I-outcome-measure

@@ -136,7 +136,8 @@ class FormatConvertor:
                         ner_tag = annotations[annotation_idx]["ner_tag"]
                         # Whether the token is at the beginning or in the middle of the tagged text
                         pos = "B" if token == tag_span[0] else "I"
-                        f.write(f"{token} {pos}-{ner_tag}\n")
+                        if not token.text.isspace():
+                            f.write(f"{token} {pos}-{ner_tag}\n")
                         # If the token is the last of tagged text
                         if token == tag_span[-1]:
                             annotation_idx += 1
