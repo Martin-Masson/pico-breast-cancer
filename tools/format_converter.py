@@ -108,17 +108,21 @@ class FormatConvertor:
 
         return file_pairs
 
-    def convert_split(self, split: list[tuple[str, str]], split_file: str) -> None:
+    def convert_split(self,
+                      split: list[tuple[str, str]],
+                      split_file: str,
+                      all_file: str) -> None:
         """Convert all files of a split.
         
         Loops over all the file pairs of a split and write each token and its
-        label to the split's corresponding output file.
+        label to both the global and the split's corresponding output file.
 
         Args:
           split: A slice of the list returned by get_file_pairs().
           split_file: A string of the relative path of the split's output file.
+          split_file: A string of the relative path of the global output file.
         """
-        with open(split_file, 'w') as f:
+        with open(split_file, 'w') as split_f, open(all_file, 'a') as all_f:
             for ann_file, txt_file in split:
                 annotations = self.get_annotations(ann_file)
                 tokens = self.tokenizer(self.get_text(txt_file))
@@ -131,13 +135,15 @@ class FormatConvertor:
                 for token in tokens:
                     if token not in tag_span:
                         if not token.text.isspace():
-                            f.write(f"{token} O\n")
+                            split_f.write(f"{token} O\n")
+                            all_f.write(f"{token} O\n")
                     else:
                         ner_tag = annotations[annotation_idx]["ner_tag"]
                         # Whether the token is at the beginning or in the middle of the tagged text
                         pos = "B" if token == tag_span[0] else "I"
                         if not token.text.isspace():
-                            f.write(f"{token} {pos}-{ner_tag}\n")
+                            split_f.write(f"{token} {pos}-{ner_tag}\n")
+                            all_f.write(f"{token} {pos}-{ner_tag}\n")
                         # If the token is the last of tagged text
                         if token == tag_span[-1]:
                             annotation_idx += 1
@@ -146,7 +152,8 @@ class FormatConvertor:
                                 tag_end = annotations[annotation_idx]["end"]
                                 tag_span = tokens.char_span(tag_start, tag_end)
 
-                f.write("\n")
+                split_f.write("\n")
+                all_f.write("\n")
         
     def convert(self) -> None:
         """Convert all the files into splits.
@@ -166,10 +173,11 @@ class FormatConvertor:
         test_file = os.path.join(self.output_dir, "test.txt")
         dev_file = os.path.join(self.output_dir, "dev.txt")
         train_file = os.path.join(self.output_dir, "train.txt")
+        all_file = os.path.join(self.output_dir, "all.txt")
         split_files = [test_file, dev_file, train_file]
 
         for split, split_file in zip(splits, split_files):
-            self.convert_split(split, split_file)
+            self.convert_split(split, split_file, all_file)
 
 
 if __name__ == '__main__':
