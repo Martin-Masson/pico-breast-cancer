@@ -8,7 +8,7 @@ import random
 import argparse
 
 
-class FormatConvertor:
+class PicoConvertor:
     def __init__(self, input_dir: str, output_dir: str) -> None:
         """Initializes the instance based on the input and output directory names.
 
@@ -20,7 +20,7 @@ class FormatConvertor:
         """
         self.input_dir = input_dir
         self.output_dir = output_dir
-        self.tokenizer = FormatConvertor.make_tokenizer()
+        self.tokenizer = PicoConvertor.make_tokenizer()
 
     @staticmethod
     def make_tokenizer() -> Tokenizer:
@@ -100,8 +100,8 @@ class FormatConvertor:
             txt_file = ann_file.replace(".ann", ".txt")
             if txt_file in files:
                 file_pairs.append(
-                    (os.path.join(self.input_dir, ann_file),
-                     os.path.join(self.input_dir, txt_file))
+                    (f"{self.input_dir}/{ann_file}",
+                     f"{self.input_dir}/{txt_file}")
                 )
             else:
                 raise f"{ann_file} does not have a corresponding text file."
@@ -164,16 +164,27 @@ class FormatConvertor:
         file_pairs = self.get_file_pairs()
         random.Random(42).shuffle(file_pairs)
         split_size = len(file_pairs)//10
+
+        # Evenly distribute rare labels among all three splits
+        test_pair = (f"{self.input_dir}/12621740.ann", f"{self.input_dir}/12621740.txt")
+        dev_pair = (f"{self.input_dir}/16897238.ann", f"{self.input_dir}/16897238.txt")
+        train_pair = (f"{self.input_dir}/31490251.ann", f"{self.input_dir}/31490251.txt")
+        file_pairs.remove(test_pair)
+        file_pairs.remove(dev_pair)
+        file_pairs.remove(train_pair)
+        file_pairs.insert(0, test_pair)
+        file_pairs.insert(split_size, dev_pair)
+        file_pairs.insert(2*split_size, train_pair)
         
         test_split = file_pairs[0:split_size]
         dev_split = file_pairs[split_size:2*split_size]
         train_split = file_pairs[2*split_size:]
         splits = [test_split, dev_split, train_split]
 
-        test_file = os.path.join(self.output_dir, "test.txt")
-        dev_file = os.path.join(self.output_dir, "dev.txt")
-        train_file = os.path.join(self.output_dir, "train.txt")
-        all_file = os.path.join(self.output_dir, "all.txt")
+        test_file = f"{self.output_dir}/test.txt"
+        dev_file = f"{self.output_dir}/dev.txt"
+        train_file = f"{self.output_dir}/train.txt"
+        all_file = f"{self.output_dir}/all.txt"
         split_files = [test_file, dev_file, train_file]
 
         for split, split_file in zip(splits, split_files):
@@ -202,5 +213,5 @@ if __name__ == '__main__':
     )
 
     args = parser.parse_args()
-    format_convertor = FormatConvertor(args.input_dir, args.output_dir)
-    format_convertor.convert()
+    pico_converter = PicoConvertor(args.input_dir, args.output_dir)
+    pico_converter.convert()
