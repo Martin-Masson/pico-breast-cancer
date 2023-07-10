@@ -16,7 +16,7 @@ class PicoConvertor:
           input_dir: A string of the relative path of the directory where the
             BRAT annotated files are located.
           output_dir: A string of the relative path of the directory where the
-            CoNLL split files will be created.
+            IOB split files will be created.
         """
         self.input_dir = input_dir
         self.output_dir = output_dir
@@ -125,8 +125,8 @@ class PicoConvertor:
         with open(split_file, 'w') as split_f, open(all_file, 'a') as all_f:
             for ann_file, txt_file in split:
                 annotations = self.get_annotations(ann_file)
-                tokens = self.tokenizer(self.get_text(txt_file))
                 len_annotations = len(annotations)
+                tokens = self.tokenizer(self.get_text(txt_file))
 
                 annotation_idx = 0  # The index of annotation within annotations
                 tag_start = annotations[annotation_idx]["start"]
@@ -206,9 +206,9 @@ if __name__ == '__main__':
     parser.add_argument(
         "-o",
         "--output_dir",
-        default="pico_conll",
+        default="pico_iob",
         type=str,
-        help="Output directory where CoNLL annotations splits are saved.",
+        help="Output directory where IOB annotations splits are saved.",
         dest="output_dir",
     )
 
